@@ -1,0 +1,109 @@
+@echo off
+REM ============================================================
+REM  MOOD APP - Generador de estructura (Android Studio 4.2)
+REM  Ejecutar en la RAIZ del proyecto (junto a settings.gradle)
+REM  Package: com.cbtis.plantillabase
+REM ============================================================
+setlocal
+set PKG=app\src\main\java\com\cbtis\plantillabase
+set RES=app\src\main\res
+
+echo Creando estructura de carpetas...
+
+REM ---- Carpetas Java por paquete ----
+mkdir "%PKG%\activities"        2>nul
+mkdir "%PKG%\adapters"          2>nul
+mkdir "%PKG%\models"            2>nul
+mkdir "%PKG%\data"              2>nul
+mkdir "%PKG%\test"              2>nul
+mkdir "%PKG%\utils"             2>nul
+
+REM ---- Carpetas de recursos ----
+mkdir "%RES%\layout"            2>nul
+mkdir "%RES%\drawable"          2>nul
+mkdir "%RES%\values"            2>nul
+mkdir "%RES%\font"              2>nul
+mkdir "%RES%\menu"              2>nul
+mkdir "%RES%\mipmap-hdpi"       2>nul
+mkdir "app\src\main"            2>nul
+
+echo Creando archivos JAVA...
+
+REM ---- Activities ----
+type nul > "%PKG%\activities\SplashActivity.java"
+type nul > "%PKG%\activities\LoginActivity.java"
+type nul > "%PKG%\activities\RegistroActivity.java"
+type nul > "%PKG%\activities\TestActivity.java"
+type nul > "%PKG%\activities\ResultadoActivity.java"
+type nul > "%PKG%\activities\HomeActivity.java"
+type nul > "%PKG%\activities\UsuarioActivity.java"
+type nul > "%PKG%\activities\LibrosActivity.java"
+type nul > "%PKG%\activities\PeliculasActivity.java"
+type nul > "%PKG%\activities\SeriesActivity.java"
+type nul > "%PKG%\activities\HistorialActivity.java"
+type nul > "%PKG%\activities\FavoritosActivity.java"
+type nul > "%PKG%\activities\SocialActivity.java"
+type nul > "%PKG%\activities\DetalleActivity.java"
+
+REM ---- Adapters ----
+type nul > "%PKG%\adapters\ContenidoAdapter.java"
+type nul > "%PKG%\adapters\HistorialAdapter.java"
+
+REM ---- Models ----
+type nul > "%PKG%\models\Usuario.java"
+type nul > "%PKG%\models\Contenido.java"
+type nul > "%PKG%\models\Pregunta.java"
+
+REM ---- Data ----
+type nul > "%PKG%\data\DBHelper.java"
+type nul > "%PKG%\data\SessionManager.java"
+type nul > "%PKG%\data\ContenidoRepository.java"
+
+REM ---- Test (logica MBTI) ----
+type nul > "%PKG%\test\BancoPreguntas.java"
+type nul > "%PKG%\test\CalculadoraMBTI.java"
+type nul > "%PKG%\test\Recomendador.java"
+
+echo Creando archivos XML (layouts)...
+type nul > "%RES%\layout\activity_splash.xml"
+type nul > "%RES%\layout\activity_login.xml"
+type nul > "%RES%\layout\activity_registro.xml"
+type nul > "%RES%\layout\activity_test.xml"
+type nul > "%RES%\layout\activity_resultado.xml"
+type nul > "%RES%\layout\activity_home.xml"
+type nul > "%RES%\layout\activity_usuario.xml"
+type nul > "%RES%\layout\activity_lista.xml"
+type nul > "%RES%\layout\activity_historial.xml"
+type nul > "%RES%\layout\activity_favoritos.xml"
+type nul > "%RES%\layout\activity_social.xml"
+type nul > "%RES%\layout\activity_detalle.xml"
+type nul > "%RES%\layout\item_contenido.xml"
+type nul > "%RES%\layout\item_historial.xml"
+
+echo Creando archivos XML (values)...
+type nul > "%RES%\values\colors.xml"
+type nul > "%RES%\values\strings.xml"
+type nul > "%RES%\values\styles.xml"
+type nul > "%RES%\values\dimens.xml"
+type nul > "%RES%\font\poppins.xml"
+
+echo Creando drawables (backgrounds redondeados)...
+type nul > "%RES%\drawable\bg_card_rounded.xml"
+type nul > "%RES%\drawable\bg_button_berry.xml"
+type nul > "%RES%\drawable\bg_button_outline.xml"
+type nul > "%RES%\drawable\bg_input_rounded.xml"
+type nul > "%RES%\drawable\bg_chip.xml"
+type nul > "%RES%\drawable\bg_gradient_header.xml"
+
+echo Creando menu y manifest...
+type nul > "%RES%\menu\bottom_nav_menu.xml"
+type nul > "app\src\main\AndroidManifest.xml"
+
+echo.
+echo ============================================================
+echo  ESTRUCTURA CREADA CORRECTAMENTE
+echo  Ahora copia el contenido de cada archivo desde el chat.
+echo  Recuerda poner las fuentes .ttf en: %RES%\font\
+echo ============================================================
+pause
+endlocal
