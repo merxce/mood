@@ -1,0 +1,407 @@
+[{
+  "_id": {
+    "$oid": "6a20e64146e21f6b41a511b3"
+  },
+  "nombre": "Naomi",
+  "correo": "nao2mi5mar0len5@gmail.com",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJFVIZUprTWN4aEZrbHFiNzlQaGRjVGVPNmgzcXZ4T0NKa1NVSS9HS1V4R0RjSXk0LmV4M0VP",
+      "subType": "00"
+    }
+  },
+  "mbti": "ESTJ",
+  "favoritos": [],
+  "historial": [
+    {
+      "titulo": "Sherlock",
+      "tipo": "serie",
+      "fecha": "04/06/2026 02:56"
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "04/06/2026 02:56"
+    }
+  ],
+  "creado": {
+    "$date": "2026-06-04T02:43:13.906Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e99602b16800dd1e680d"
+  },
+  "nombre": "xd",
+  "correo": "hola@gmail.com",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJE1TQUZ1OHc5L2JMc0NCNlBnM0w4bi51anJhYTg2SGVOalY3bHQ5Lm5LRFEzekZNWmNXNmR5",
+      "subType": "00"
+    }
+  },
+  "mbti": "ESTJ",
+  "favoritos": [
+    {
+      "titulo": "Sherlock",
+      "tipo": "serie",
+      "contenido_id": null
+    }
+  ],
+  "historial": [
+    {
+      "titulo": "Sherlock",
+      "tipo": "serie",
+      "fecha": "04/06/2026 02:58"
+    },
+    {
+      "titulo": "Sherlock Hound",
+      "tipo": "serie",
+      "fecha": "04/06/2026 02:58"
+    },
+    {
+      "titulo": "Race For The Crown",
+      "tipo": "serie",
+      "fecha": "04/06/2026 02:58"
+    },
+    {
+      "titulo": "Coco",
+      "tipo": "pelicula",
+      "fecha": "04/06/2026 02:58"
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "04/06/2026 02:58"
+    }
+  ],
+  "creado": {
+    "$date": "2026-06-04T02:57:26.310Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20ea0d02b16800dd1e680f"
+  },
+  "nombre": "nao",
+  "correo": "nao@gmail.com",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJDJMU3lGbzIvTkg0QW0zdXRYOEx4emVhRWR4YXBvYlRFSWx4WUFLZVU0d1h3Qk9HcHU3L1Bh",
+      "subType": "00"
+    }
+  },
+  "mbti": "ESTJ",
+  "favoritos": [
+    {
+      "titulo": "El club de la pelea",
+      "tipo": "pelicula",
+      "contenido_id": null
+    },
+    {
+      "titulo": "Interestelar",
+      "tipo": "pelicula",
+      "contenido_id": null
+    }
+  ],
+  "historial": [
+    {
+      "titulo": "Interestelar",
+      "tipo": "pelicula",
+      "fecha": "04/06/2026 14:29"
+    },
+    {
+      "titulo": "Coco",
+      "tipo": "pelicula",
+      "fecha": "04/06/2026 14:27"
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "04/06/2026 14:27"
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "04/06/2026 14:24"
+    },
+    {
+      "titulo": "El club de la pelea",
+      "tipo": "pelicula",
+      "fecha": "04/06/2026 14:13"
+    }
+  ],
+  "creado": {
+    "$date": "2026-06-04T02:59:25.475Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a218ce702b16800dd1e6814"
+  },
+  "nombre": "Angelo Gabriel",
+  "correo": "agnelo.dd.gadiel@gmail.com",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJGdpbGpRMjJjVHhaOUJhTE9vLlMvbnU5ZlFETWFFOWRSWXVSa3o0ZC9FcDh6NDN0UDRXa3BX",
+      "subType": "00"
+    }
+  },
+  "mbti": "",
+  "favoritos": [],
+  "historial": [],
+  "creado": {
+    "$date": "2026-06-04T14:34:15.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a218df302b16800dd1e6815"
+  },
+  "nombre": "Angelo",
+  "correo": "angelo@gmail.con",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJEFhWXFQdjZyaS5BOUZSZlpLWXZOUmU3N3NLMDkwbHBGY3Bmc3ZYdEI0WkRHdEJzQjFRYWZh",
+      "subType": "00"
+    }
+  },
+  "mbti": "ISFP",
+  "favoritos": [
+    {
+      "titulo": "El Alquimista",
+      "tipo": "libro",
+      "contenido_id": null
+    }
+  ],
+  "historial": [
+    {
+      "titulo": "El Alquimista",
+      "tipo": "libro",
+      "fecha": "04/06/2026 14:41"
+    },
+    {
+      "titulo": "Stranger Things: Tales from '85",
+      "tipo": "serie",
+      "fecha": "04/06/2026 14:40"
+    },
+    {
+      "titulo": "Amelie",
+      "tipo": "pelicula",
+      "fecha": "04/06/2026 14:40"
+    },
+    {
+      "titulo": "El Alquimista",
+      "tipo": "libro",
+      "fecha": "04/06/2026 14:40"
+    }
+  ],
+  "creado": {
+    "$date": "2026-06-04T14:38:43.573Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a218ed702b16800dd1e6817"
+  },
+  "nombre": "Moisés",
+  "correo": "moy@gmail.com",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJEFMdFYuaWFCWllxWWMyUXE3eGkxbnU2ZHo0Ui5wRTVGWGluMGhNbkd2Ri5rN284Y2Zjd2px",
+      "subType": "00"
+    }
+  },
+  "mbti": "ESTJ",
+  "favoritos": [
+    {
+      "titulo": "Interestelar",
+      "tipo": "pelicula",
+      "contenido_id": null
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "contenido_id": null
+    }
+  ],
+  "historial": [
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "06/06/2026 22:23"
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "06/06/2026 22:06"
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "06/06/2026 22:02"
+    },
+    {
+      "titulo": "Amelie",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 22:02"
+    },
+    {
+      "titulo": "Dark",
+      "tipo": "serie",
+      "fecha": "06/06/2026 21:00"
+    },
+    {
+      "titulo": "A dos metros de ti",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 21:00"
+    },
+    {
+      "titulo": "El niño con el pijama de rayas",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 21:00"
+    },
+    {
+      "titulo": "Jumanji",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 21:00"
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "06/06/2026 21:00"
+    },
+    {
+      "titulo": "Interestelar",
+      "tipo": "pelicula",
+      "fecha": "04/06/2026 14:43"
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "04/06/2026 14:43"
+    }
+  ],
+  "creado": {
+    "$date": "2026-06-04T14:42:31.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a249dede8e8cc6aa07abf88"
+  },
+  "nombre": "dddss",
+  "correo": "dds@gmail.com",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJG4vRWtRamRFYVEzMTlDeERrb05jUnVUTEhXSmJZV2tkb3pvdzdScW9CenRQaGtGeFc3Wlll",
+      "subType": "00"
+    }
+  },
+  "mbti": "ISTP",
+  "favoritos": [],
+  "historial": [],
+  "creado": {
+    "$date": "2026-06-06T22:23:41.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a249e24e8e8cc6aa07abf89"
+  },
+  "nombre": "xd2",
+  "correo": "xd@gmaio.com",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJHJ3RzJDOXpzQUFPTGJSSi9tNXZqSnVEQTd4Q25jL0k0cWtSdTFlcllTeVpydUg2UXBrVTRl",
+      "subType": "00"
+    }
+  },
+  "mbti": "ENTJ",
+  "favoritos": [],
+  "historial": [
+    {
+      "titulo": "Pensar bien, sentirse bien",
+      "tipo": "libro",
+      "fecha": "06/06/2026 23:52"
+    },
+    {
+      "titulo": "House of Cards",
+      "tipo": "serie",
+      "fecha": "06/06/2026 23:44"
+    },
+    {
+      "titulo": "Foundation",
+      "tipo": "serie",
+      "fecha": "06/06/2026 23:44"
+    },
+    {
+      "titulo": "The Social Network",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 23:43"
+    },
+    {
+      "titulo": "The Prestige",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 23:06"
+    },
+    {
+      "titulo": "Thank You for Smoking",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 23:06"
+    },
+    {
+      "titulo": "Pensar bien, sentirse bien",
+      "tipo": "libro",
+      "fecha": "06/06/2026 23:05"
+    },
+    {
+      "titulo": "Historia de dos ciudades",
+      "tipo": "libro",
+      "fecha": "06/06/2026 23:05"
+    },
+    {
+      "titulo": "El mito de Sísifo",
+      "tipo": "libro",
+      "fecha": "06/06/2026 23:05"
+    },
+    {
+      "titulo": "Thank You for Smoking",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 23:05"
+    },
+    {
+      "titulo": "Habitos atomicos",
+      "tipo": "libro",
+      "fecha": "06/06/2026 22:33"
+    },
+    {
+      "titulo": "Coco",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 22:27"
+    },
+    {
+      "titulo": "Harry Potter y la piedra filosofal",
+      "tipo": "pelicula",
+      "fecha": "06/06/2026 22:27"
+    },
+    {
+      "titulo": "Gossip Girl",
+      "tipo": "serie",
+      "fecha": "06/06/2026 22:27"
+    },
+    {
+      "titulo": "Boy Meets World",
+      "tipo": "serie",
+      "fecha": "06/06/2026 22:27"
+    },
+    {
+      "titulo": "That '70s Show",
+      "tipo": "serie",
+      "fecha": "06/06/2026 22:27"
+    }
+  ],
+  "creado": {
+    "$date": "2026-06-06T22:24:36.828Z"
+  }
+}]

@@ -1,0 +1,5102 @@
+[{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be211"
+  },
+  "titulo": "Crítica de la razón pura",
+  "tipo": "libro",
+  "autor": "Immanuel Kant",
+  "anio": 1781,
+  "genero": "Filosofía",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "La base del idealismo trascendental.",
+  "imagen": "https://covers.openlibrary.org/b/id/13221708-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be212"
+  },
+  "titulo": "Sapiens",
+  "tipo": "libro",
+  "autor": "Yuval Noah Harari",
+  "anio": 2011,
+  "genero": "Ensayo / Historia",
+  "mbti": [
+    "ENTP",
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Análisis de la historia humana.",
+  "imagen": "https://covers.openlibrary.org/b/id/8634250-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be213"
+  },
+  "titulo": "Neuromante",
+  "tipo": "libro",
+  "autor": "William Gibson",
+  "anio": 1984,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "ENTP",
+    "INTP"
+  ],
+  "descripcion": "Clásico del cyberpunk.",
+  "imagen": "https://covers.openlibrary.org/b/id/283860-L.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be214"
+  },
+  "titulo": "El mito de Sísifo",
+  "tipo": "libro",
+  "autor": "Albert Camus",
+  "anio": 1942,
+  "genero": "Filosofía",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Análisis sobre el absurdo de la existencia.",
+  "imagen": "https://covers.openlibrary.org/b/id/1014395-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be215"
+  },
+  "titulo": "La estructura de las revoluciones científicas",
+  "tipo": "libro",
+  "autor": "Thomas Kuhn",
+  "anio": 1962,
+  "genero": "Ciencia / Filosofía",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Cómo cambian los paradigmas científicos.",
+  "imagen": "https://covers.openlibrary.org/b/id/6566386-L.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be216"
+  },
+  "titulo": "Yo, Robot",
+  "tipo": "libro",
+  "autor": "Isaac Asimov",
+  "anio": 1950,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Las leyes de la robótica.",
+  "imagen": "https://covers.openlibrary.org/b/id/12385229-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be217"
+  },
+  "titulo": "Simulacros y simulación",
+  "tipo": "libro",
+  "autor": "Jean Baudrillard",
+  "anio": 1981,
+  "genero": "Filosofía",
+  "mbti": [
+    "ENTP",
+    "INTP"
+  ],
+  "descripcion": "Análisis de la realidad posmoderna.",
+  "imagen": "https://covers.openlibrary.org/b/isbn/9788430939503-L.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be218"
+  },
+  "titulo": "El hombre que confundió a su mujer con un sombrero",
+  "tipo": "libro",
+  "autor": "Oliver Sacks",
+  "anio": 1985,
+  "genero": "Psicología",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Casos clínicos fascinantes.",
+  "imagen": "https://covers.openlibrary.org/b/id/6986188-L.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be219"
+  },
+  "titulo": "La edad de la razón",
+  "tipo": "libro",
+  "autor": "Jean-Paul Sartre",
+  "anio": 1945,
+  "genero": "Filosofía / Literatura",
+  "mbti": [
+    "ENTP",
+    "INTP"
+  ],
+  "descripcion": "Novela existencialista clave.",
+  "imagen": "https://covers.openlibrary.org/b/id/3362044-L.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be220"
+  },
+  "titulo": "Breve historia del tiempo",
+  "tipo": "libro",
+  "autor": "Stephen Hawking",
+  "anio": 1988,
+  "genero": "Ciencia",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Cosmología explicada para mentes curiosas.",
+  "imagen": "https://covers.openlibrary.org/b/id/10432365-L.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be301"
+  },
+  "titulo": "El nombre del viento",
+  "tipo": "libro",
+  "autor": "Patrick Rothfuss",
+  "anio": 2007,
+  "genero": "Fantasia",
+  "mbti": [
+    "INFJ",
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "Una historia profunda y poetica para mentes intuitivas.",
+  "imagen": "https://covers.openlibrary.org/b/id/11480483-L.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be302"
+  },
+  "titulo": "El Alquimista",
+  "tipo": "libro",
+  "autor": "Paulo Coelho",
+  "anio": 1988,
+  "genero": "Ficcion / Inspiracional",
+  "mbti": [
+    "ENFP",
+    "INFP",
+    "ENFJ"
+  ],
+  "descripcion": "Un viaje sobre seguir tus suenos.",
+  "imagen": "https://covers.openlibrary.org/b/id/7414780-L.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be303"
+  },
+  "titulo": "Orgullo y prejuicio",
+  "tipo": "libro",
+  "autor": "Jane Austen",
+  "anio": 1813,
+  "genero": "Romance / Clasico",
+  "mbti": [
+    "ENFJ",
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "Romance clasico con personajes complejos.",
+  "imagen": "https://covers.openlibrary.org/b/id/13574150-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be304"
+  },
+  "titulo": "El principito",
+  "tipo": "libro",
+  "autor": "Antoine de Saint-Exupéry",
+  "anio": 1943,
+  "genero": "Ficcion / Clasico",
+  "mbti": [
+    "INFP",
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "Una mirada filosófica sobre la esencia humana.",
+  "imagen": "https://covers.openlibrary.org/b/id/13499066-L.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be305"
+  },
+  "titulo": "Demian",
+  "tipo": "libro",
+  "autor": "Hermann Hesse",
+  "anio": 1919,
+  "genero": "Ficcion / Filosofico",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "La busqueda del autoconocimiento.",
+  "imagen": "https://covers.openlibrary.org/b/id/12569297-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be306"
+  },
+  "titulo": "1984",
+  "tipo": "libro",
+  "autor": "George Orwell",
+  "anio": 1949,
+  "genero": "Distopia",
+  "mbti": [
+    "INFJ",
+    "ENFP"
+  ],
+  "descripcion": "Crítica a la vigilancia y al control social.",
+  "imagen": "https://covers.openlibrary.org/b/id/9267242-L.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be307"
+  },
+  "titulo": "Como ganar amigos e influir sobre las personas",
+  "tipo": "libro",
+  "autor": "Dale Carnegie",
+  "anio": 1936,
+  "genero": "Autoayuda",
+  "mbti": [
+    "ENFJ",
+    "ENFP"
+  ],
+  "descripcion": "Manual clave para las relaciones sociales.",
+  "imagen": "https://covers.openlibrary.org/b/id/13195013-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be308"
+  },
+  "titulo": "Crónica del pájaro que da cuerda al mundo",
+  "tipo": "libro",
+  "autor": "Haruki Murakami",
+  "anio": 1994,
+  "genero": "Ficcion Surrealista",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "Un viaje onírico por la psique.",
+  "imagen": "https://covers.openlibrary.org/b/id/12627437-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be309"
+  },
+  "titulo": "Mujercitas",
+  "tipo": "libro",
+  "autor": "Louisa May Alcott",
+  "anio": 1868,
+  "genero": "Clasico / Familiar",
+  "mbti": [
+    "ENFP",
+    "ENFJ",
+    "INFP"
+  ],
+  "descripcion": "Crecimiento personal y lazos familiares.",
+  "imagen": "https://covers.openlibrary.org/b/id/8775559-L.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be310"
+  },
+  "titulo": "El retrato de Dorian Gray",
+  "tipo": "libro",
+  "autor": "Oscar Wilde",
+  "anio": 1890,
+  "genero": "Gótico / Filosofico",
+  "mbti": [
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "La dualidad entre moralidad y estética.",
+  "imagen": "https://covers.openlibrary.org/b/id/14314858-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be311"
+  },
+  "titulo": "Persépolis",
+  "tipo": "libro",
+  "autor": "Marjane Satrapi",
+  "anio": 2000,
+  "genero": "Novela Gráfica / Autobiografía",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "Una visión humana de la revolución iraní.",
+  "imagen": "https://covers.openlibrary.org/b/id/12648921-L.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be312"
+  },
+  "titulo": "La insoportable levedad del ser",
+  "tipo": "libro",
+  "autor": "Milan Kundera",
+  "anio": 1984,
+  "genero": "Ficcion Filosofica",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "Sobre la fragilidad de las decisiones humanas.",
+  "imagen": "https://covers.openlibrary.org/b/id/13184405-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be313"
+  },
+  "titulo": "Kafka en la orilla",
+  "tipo": "libro",
+  "autor": "Haruki Murakami",
+  "anio": 2002,
+  "genero": "Ficcion Surrealista",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "Destino y soledad entrelazados.",
+  "imagen": "https://covers.openlibrary.org/b/id/4982600-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be314"
+  },
+  "titulo": "Los miserables",
+  "tipo": "libro",
+  "autor": "Victor Hugo",
+  "anio": 1862,
+  "genero": "Clasico / Drama",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "Justicia, amor y sacrificio épico.",
+  "imagen": "https://covers.openlibrary.org/b/id/12721865-L.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be315"
+  },
+  "titulo": "Un mundo feliz",
+  "tipo": "libro",
+  "autor": "Aldous Huxley",
+  "anio": 1932,
+  "genero": "Distopia",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "El precio de una sociedad sin dolor.",
+  "imagen": "https://covers.openlibrary.org/b/id/8231823-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be316"
+  },
+  "titulo": "Siddhartha",
+  "tipo": "libro",
+  "autor": "Hermann Hesse",
+  "anio": 1922,
+  "genero": "Filosofico",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "La búsqueda del despertar espiritual.",
+  "imagen": "https://covers.openlibrary.org/b/id/6562535-L.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be317"
+  },
+  "titulo": "El poder del ahora",
+  "tipo": "libro",
+  "autor": "Eckhart Tolle",
+  "anio": 1997,
+  "genero": "Espiritualidad",
+  "mbti": [
+    "INFJ",
+    "ENFP"
+  ],
+  "descripcion": "Guía para la trascendencia personal.",
+  "imagen": "https://covers.openlibrary.org/b/id/551262-L.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be318"
+  },
+  "titulo": "La voz de los muertos",
+  "tipo": "libro",
+  "autor": "Orson Scott Card",
+  "anio": 1986,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INFJ",
+    "ENFJ"
+  ],
+  "descripcion": "Una perspectiva empática sobre la otredad.",
+  "imagen": "https://covers.openlibrary.org/b/id/9315123-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be319"
+  },
+  "titulo": "La casa de los espíritus",
+  "tipo": "libro",
+  "autor": "Isabel Allende",
+  "anio": 1982,
+  "genero": "Realismo Mágico",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "Legado familiar y misticismo.",
+  "imagen": "https://covers.openlibrary.org/b/id/3205226-L.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be320"
+  },
+  "titulo": "Sentido y sensibilidad",
+  "tipo": "libro",
+  "autor": "Jane Austen",
+  "anio": 1811,
+  "genero": "Romance / Clasico",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "El equilibrio entre razón y emoción.",
+  "imagen": "https://covers.openlibrary.org/b/isbn/9788420674698-L.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be401"
+  },
+  "titulo": "Hábitos atómicos",
+  "tipo": "libro",
+  "autor": "James Clear",
+  "anio": 2018,
+  "genero": "Autoayuda",
+  "mbti": [
+    "ISTJ",
+    "ESTJ",
+    "ESFJ"
+  ],
+  "descripcion": "Sistema práctico para mejorar día a día.",
+  "imagen": "https://covers.openlibrary.org/b/id/12539702-L.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be402"
+  },
+  "titulo": "El arte de la guerra",
+  "tipo": "libro",
+  "autor": "Sun Tzu",
+  "anio": -500,
+  "genero": "Estrategia",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "El manual clásico de estrategia, orden y disciplina.",
+  "imagen": "https://covers.openlibrary.org/b/id/4849549-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be403"
+  },
+  "titulo": "La ética protestante y el espíritu del capitalismo",
+  "tipo": "libro",
+  "autor": "Max Weber",
+  "anio": 1905,
+  "genero": "Sociología",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "Análisis sobre la ética del trabajo y el deber.",
+  "imagen": "https://covers.openlibrary.org/b/id/5381835-L.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be404"
+  },
+  "titulo": "Jane Eyre",
+  "tipo": "libro",
+  "autor": "Charlotte Brontë",
+  "anio": 1847,
+  "genero": "Clasico / Romance",
+  "mbti": [
+    "ISFJ",
+    "ISTJ"
+  ],
+  "descripcion": "Una historia de moralidad, perseverancia y compromiso.",
+  "imagen": "https://covers.openlibrary.org/b/id/8235363-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be405"
+  },
+  "titulo": "Padre rico, padre pobre",
+  "tipo": "libro",
+  "autor": "Robert Kiyosaki",
+  "anio": 1997,
+  "genero": "Finanzas",
+  "mbti": [
+    "ESTJ",
+    "ISTJ"
+  ],
+  "descripcion": "Fundamentos de gestión financiera y seguridad.",
+  "imagen": "https://covers.openlibrary.org/b/id/8315603-L.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be406"
+  },
+  "titulo": "Matar a un ruiseñor",
+  "tipo": "libro",
+  "autor": "Harper Lee",
+  "anio": 1960,
+  "genero": "Clasico / Drama",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "Justicia, integridad y valores familiares.",
+  "imagen": "https://covers.openlibrary.org/b/id/14351077-L.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be407"
+  },
+  "titulo": "La riqueza de las naciones",
+  "tipo": "libro",
+  "autor": "Adam Smith",
+  "anio": 1776,
+  "genero": "Economía",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "Los principios de la economía moderna y el orden.",
+  "imagen": "https://covers.openlibrary.org/b/isbn/9788420658735-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be408"
+  },
+  "titulo": "Emma",
+  "tipo": "libro",
+  "autor": "Jane Austen",
+  "anio": 1815,
+  "genero": "Clasico",
+  "mbti": [
+    "ESFJ",
+    "ISFJ"
+  ],
+  "descripcion": "Sobre la importancia de las relaciones sociales.",
+  "imagen": "https://covers.openlibrary.org/b/id/9278312-L.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be409"
+  },
+  "titulo": "Cuentos de Navidad",
+  "tipo": "libro",
+  "autor": "Charles Dickens",
+  "anio": 1843,
+  "genero": "Clasico",
+  "mbti": [
+    "ESFJ",
+    "ISFJ"
+  ],
+  "descripcion": "Tradición, redención y valores humanos.",
+  "imagen": "https://covers.openlibrary.org/b/id/12875748-L.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be410"
+  },
+  "titulo": "La cabaña del tío Tom",
+  "tipo": "libro",
+  "autor": "Harriet Beecher Stowe",
+  "anio": 1852,
+  "genero": "Clasico",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "Un pilar de la moralidad y los derechos humanos.",
+  "imagen": "https://covers.openlibrary.org/b/id/12728198-L.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be411"
+  },
+  "titulo": "La guía de etiqueta de Emily Post",
+  "tipo": "libro",
+  "autor": "Emily Post",
+  "anio": 1922,
+  "genero": "Etiqueta / Referencia",
+  "mbti": [
+    "ESFJ",
+    "ISFJ"
+  ],
+  "descripcion": "El estándar definitivo sobre el orden social.",
+  "imagen": "https://covers.openlibrary.org/b/isbn/9780060734275-L.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be412"
+  },
+  "titulo": "El viejo y el mar",
+  "tipo": "libro",
+  "autor": "Ernest Hemingway",
+  "anio": 1952,
+  "genero": "Clasico",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "Perseverancia, deber y resiliencia.",
+  "imagen": "https://covers.openlibrary.org/b/id/14289984-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be413"
+  },
+  "titulo": "Manual de Epicteto",
+  "tipo": "libro",
+  "autor": "Epicteto",
+  "anio": 135,
+  "genero": "Filosofía",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "Guía práctica para una vida disciplinada.",
+  "imagen": "https://covers.openlibrary.org/b/isbn/9788430939527-L.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be414"
+  },
+  "titulo": "El diario de Ana Frank",
+  "tipo": "libro",
+  "autor": "Ana Frank",
+  "anio": 1947,
+  "genero": "Diario / Histórico",
+  "mbti": [
+    "ISFJ",
+    "ISTJ"
+  ],
+  "descripcion": "El testimonio de una vida con orden y esperanza.",
+  "imagen": "https://covers.openlibrary.org/b/id/12934565-L.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be415"
+  },
+  "titulo": "Principios de administración científica",
+  "tipo": "libro",
+  "autor": "Frederick Winslow Taylor",
+  "anio": 1911,
+  "genero": "Negocios / Ciencia",
+  "mbti": [
+    "ESTJ",
+    "ISTJ"
+  ],
+  "descripcion": "Optimización del trabajo y productividad.",
+  "imagen": "https://covers.openlibrary.org/b/id/8235250-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be416"
+  },
+  "titulo": "La autobiografía de Benjamin Franklin",
+  "tipo": "libro",
+  "autor": "Benjamin Franklin",
+  "anio": 1791,
+  "genero": "Autobiografía",
+  "mbti": [
+    "ESTJ",
+    "ISTJ"
+  ],
+  "descripcion": "El ejemplo máximo de automejora y deber.",
+  "imagen": "https://covers.openlibrary.org/b/id/8134962-L.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be417"
+  },
+  "titulo": "Un cuento de dos ciudades",
+  "tipo": "libro",
+  "autor": "Charles Dickens",
+  "anio": 1859,
+  "genero": "Clasico / Histórico",
+  "mbti": [
+    "ISFJ",
+    "ISTJ"
+  ],
+  "descripcion": "Sacrificio y lealtad en tiempos turbulentos.",
+  "imagen": "https://covers.openlibrary.org/b/id/12875748-L.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be418"
+  },
+  "titulo": "Historia de dos ciudades",
+  "tipo": "libro",
+  "autor": "Charles Dickens",
+  "anio": 1859,
+  "genero": "Clasico",
+  "mbti": [
+    "ISFJ",
+    "ISTJ"
+  ],
+  "descripcion": "Reflexiones sobre la sociedad y la justicia.",
+  "imagen": "https://covers.openlibrary.org/b/isbn/9788420674650-L.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be419"
+  },
+  "titulo": "Pensar bien, sentirse bien",
+  "tipo": "libro",
+  "autor": "Walter Riso",
+  "anio": 2008,
+  "genero": "Autoayuda",
+  "mbti": [
+    "ESFJ",
+    "ISFJ"
+  ],
+  "descripcion": "Herramientas para el bienestar mental y la organización.",
+  "imagen": "https://covers.openlibrary.org/b/id/12029674-L.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2be420"
+  },
+  "titulo": "Meditaciones",
+  "tipo": "libro",
+  "autor": "Marco Aurelio",
+  "anio": 170,
+  "genero": "Filosofía",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "La disciplina del deber por encima de todo.",
+  "imagen": "https://covers.openlibrary.org/b/id/10461309-L.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf101"
+  },
+  "titulo": "The Matrix",
+  "tipo": "pelicula",
+  "director": "Hermanas Wachowski",
+  "anio": 1999,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP",
+    "ENTP"
+  ],
+  "descripcion": "Un hacker descubre la verdadera naturaleza de su realidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/iTeyYMmNqukMzJJyEz0LkD85dQU.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf102"
+  },
+  "titulo": "The Social Network",
+  "tipo": "pelicula",
+  "director": "David Fincher",
+  "anio": 2010,
+  "genero": "Drama",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "La creación de Facebook y las complicaciones legales y personales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/tnkqSGo8jV2JE8SwTwWmp91bag4.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf103"
+  },
+  "titulo": "Blade Runner 2049",
+  "tipo": "pelicula",
+  "director": "Denis Villeneuve",
+  "anio": 2017,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Una investigación existencial en un futuro distópico.",
+  "imagen": "https://image.tmdb.org/t/p/w500/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf104"
+  },
+  "titulo": "The Imitation Game",
+  "tipo": "pelicula",
+  "director": "Morten Tyldum",
+  "anio": 2014,
+  "genero": "Biografía / Drama",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "La vida de Alan Turing y el descifrado del código Enigma.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ctgJSUcKEiWgOT9anDIetClLOKN.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf105"
+  },
+  "titulo": "Primer",
+  "tipo": "pelicula",
+  "director": "Shane Carruth",
+  "anio": 2004,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Dos ingenieros descubren accidentalmente un mecanismo de viaje en el tiempo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oq3FNtXWMb42XNDxdQEYxmi8ZhG.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf106"
+  },
+  "titulo": "The Prestige",
+  "tipo": "pelicula",
+  "director": "Christopher Nolan",
+  "anio": 2006,
+  "genero": "Misterio / Drama",
+  "mbti": [
+    "INTJ",
+    "ENTJ"
+  ],
+  "descripcion": "Una rivalidad obsesiva entre dos magos en el siglo XIX.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6NHAZLR4AJhBAVU4qFzkucfyhVl.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf107"
+  },
+  "titulo": "Thank You for Smoking",
+  "tipo": "pelicula",
+  "director": "Jason Reitman",
+  "anio": 2005,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ENTP",
+    "ENTJ"
+  ],
+  "descripcion": "Un cabildero de la industria tabacalera defiende los cigarrillos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/wIOfcMgsgqNqdx2Z0MkLFsfz8SQ.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf108"
+  },
+  "titulo": "Fight Club",
+  "tipo": "pelicula",
+  "director": "David Fincher",
+  "anio": 1999,
+  "genero": "Drama",
+  "mbti": [
+    "INTJ",
+    "ENTP"
+  ],
+  "descripcion": "La desilusión social lleva a la creación de un club de lucha.",
+  "imagen": "https://image.tmdb.org/t/p/w500/bI0BhpswEApC0B17RhLZtRVPZiQ.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf109"
+  },
+  "titulo": "Arrival",
+  "tipo": "pelicula",
+  "director": "Denis Villeneuve",
+  "anio": 2016,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Una lingüista intenta comunicarse con visitantes extraterrestres.",
+  "imagen": "https://image.tmdb.org/t/p/w500/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf110"
+  },
+  "titulo": "Margin Call",
+  "tipo": "pelicula",
+  "director": "J.C. Chandor",
+  "anio": 2011,
+  "genero": "Drama",
+  "mbti": [
+    "ENTJ",
+    "ISTJ"
+  ],
+  "descripcion": "Las horas previas al colapso financiero de 2008.",
+  "imagen": "https://image.tmdb.org/t/p/w500/lb79wPjijIXf1ZE6KhWVGUtv9AF.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf111"
+  },
+  "titulo": "A Beautiful Mind",
+  "tipo": "pelicula",
+  "director": "Ron Howard",
+  "anio": 2001,
+  "genero": "Biografía / Drama",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "La lucha de John Nash con la esquizofrenia y su genialidad matemática.",
+  "imagen": "https://image.tmdb.org/t/p/w500/upmX2DiWbSqnMI4M3roEsal7Y97.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf112"
+  },
+  "titulo": "Ex Machina",
+  "tipo": "pelicula",
+  "director": "Alex Garland",
+  "anio": 2014,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP",
+    "ENTP"
+  ],
+  "descripcion": "Un programador evalúa la consciencia de una IA.",
+  "imagen": "https://image.tmdb.org/t/p/w500/36AUzO9b7RFB0OG4b184rG8X3KJ.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf113"
+  },
+  "titulo": "Moneyball",
+  "tipo": "pelicula",
+  "director": "Bennett Miller",
+  "anio": 2011,
+  "genero": "Drama / Deportes",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "El uso de análisis estadístico para crear un equipo de béisbol competitivo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/zZLOUh3Kvf3pNfr6DkO2Bft0swZ.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf114"
+  },
+  "titulo": "Pi",
+  "tipo": "pelicula",
+  "director": "Darren Aronofsky",
+  "anio": 1998,
+  "genero": "Thriller / Ciencia Ficción",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Un genio matemático obsesionado con encontrar el número que explica todo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/iauKJI5oeCAUeMfvmhCHuYd5vN4.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf115"
+  },
+  "titulo": "Up in the Air",
+  "tipo": "pelicula",
+  "director": "Jason Reitman",
+  "anio": 2009,
+  "genero": "Drama",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "Un consultor corporativo que cuestiona su estilo de vida solitario.",
+  "imagen": "https://image.tmdb.org/t/p/w500/wZRNEkDxVDNNVaCPN7jKziMHmk5.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf116"
+  },
+  "titulo": "Steve Jobs",
+  "tipo": "pelicula",
+  "director": "Danny Boyle",
+  "anio": 2015,
+  "genero": "Biografía",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "Retrato de la personalidad ambiciosa de Jobs detrás de sus productos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/tifv0KBpDWCcrIwlScgZeUKwq2m.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf117"
+  },
+  "titulo": "Interstellar",
+  "tipo": "pelicula",
+  "director": "Christopher Nolan",
+  "anio": 2014,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP",
+    "ENTP"
+  ],
+  "descripcion": "Exploración espacial para salvar a la humanidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/d1QKiYtceF3GDtxvTFXFAqwwah9.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf118"
+  },
+  "titulo": "Synecdoche, New York",
+  "tipo": "pelicula",
+  "director": "Charlie Kaufman",
+  "anio": 2008,
+  "genero": "Drama / Surrealista",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Un director de teatro construye una réplica de Nueva York en un almacén.",
+  "imagen": "https://image.tmdb.org/t/p/w500/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf119"
+  },
+  "titulo": "Mr. Nobody",
+  "tipo": "pelicula",
+  "director": "Jaco Van Dormael",
+  "anio": 2009,
+  "genero": "Drama / Ciencia Ficción",
+  "mbti": [
+    "INTP",
+    "ENTP"
+  ],
+  "descripcion": "Un hombre recuerda todas las vidas posibles que pudo haber tenido.",
+  "imagen": "https://image.tmdb.org/t/p/w500/dyV1SZ5tnO3FRUaVHPzD8py6NGW.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf120"
+  },
+  "titulo": "Inception",
+  "tipo": "pelicula",
+  "director": "Christopher Nolan",
+  "anio": 2010,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "ENTP"
+  ],
+  "descripcion": "El robo de secretos a través de los sueños.",
+  "imagen": "https://image.tmdb.org/t/p/w500/xgPGDEKkBrXhPaNmwIlf8e2RCMk.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf121"
+  },
+  "titulo": "Nightcrawler",
+  "tipo": "pelicula",
+  "director": "Dan Gilroy",
+  "anio": 2014,
+  "genero": "Thriller",
+  "mbti": [
+    "INTJ",
+    "ENTP"
+  ],
+  "descripcion": "Un hombre sin escrúpulos entra en el periodismo freelance sensacionalista.",
+  "imagen": "https://image.tmdb.org/t/p/w500/mP9JaSGi81tU1aqRE4mBdQGmimq.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf122"
+  },
+  "titulo": "Citizen Kane",
+  "tipo": "pelicula",
+  "director": "Orson Welles",
+  "anio": 1941,
+  "genero": "Drama",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "El ascenso y caída de un magnate de la prensa.",
+  "imagen": "https://image.tmdb.org/t/p/w500/w7V0bv38Z0q0DgHmMfcGM4WRNTv.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf123"
+  },
+  "titulo": "The Big Short",
+  "tipo": "pelicula",
+  "director": "Adam McKay",
+  "anio": 2015,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ENTP",
+    "ENTJ"
+  ],
+  "descripcion": "Cómo un grupo de inversores apostó contra el mercado inmobiliario en 2008.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kNjz9Ezuf8tZHP2MfMbtDzDJ8wR.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf124"
+  },
+  "titulo": "Limitless",
+  "tipo": "pelicula",
+  "director": "Neil Burger",
+  "anio": 2011,
+  "genero": "Thriller / Ciencia Ficción",
+  "mbti": [
+    "ENTP",
+    "ENTJ"
+  ],
+  "descripcion": "Un hombre toma una droga que maximiza su capacidad cerebral.",
+  "imagen": "https://image.tmdb.org/t/p/w500/3NE1VeWYVuc9zkR08Eg6JhEdnz1.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf125"
+  },
+  "titulo": "Watchmen",
+  "tipo": "pelicula",
+  "director": "Zack Snyder",
+  "anio": 2009,
+  "genero": "Acción / Misterio",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Una mirada profunda a la moralidad de los héroes en un mundo alternativo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/l0v7bgWK5M85mcuMNO5AtkP1XVn.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf126"
+  },
+  "titulo": "Primer",
+  "tipo": "pelicula",
+  "director": "Shane Carruth",
+  "anio": 2004,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Un estudio complejo y realista sobre el descubrimiento del viaje en el tiempo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oq3FNtXWMb42XNDxdQEYxmi8ZhG.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf127"
+  },
+  "titulo": "Sherlock Holmes",
+  "tipo": "pelicula",
+  "director": "Guy Ritchie",
+  "anio": 2009,
+  "genero": "Misterio / Acción",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "El famoso detective usa su intelecto superior para resolver casos criminales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/gf4eNEw79XVbKYDBEQKgWPezQNY.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf128"
+  },
+  "titulo": "The Usual Suspects",
+  "tipo": "pelicula",
+  "director": "Bryan Singer",
+  "anio": 1995,
+  "genero": "Misterio / Thriller",
+  "mbti": [
+    "ENTP",
+    "INTJ"
+  ],
+  "descripcion": "Un rompecabezas narrativo con uno de los giros más famosos de la historia.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6EwKfCzUVDSNwfTz3uOQ77ANawi.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf129"
+  },
+  "titulo": "Steve Jobs: One Last Thing",
+  "tipo": "pelicula",
+  "director": "Sarah Colt",
+  "anio": 2011,
+  "genero": "Documental / Biografía",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "Análisis de la visión de liderazgo y pensamiento innovador de Steve Jobs.",
+  "imagen": "https://image.tmdb.org/t/p/w500/1JTGmgwoPWB1IaR6CAsbkmsmKEN.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf130"
+  },
+  "titulo": "Gladiator",
+  "tipo": "pelicula",
+  "director": "Ridley Scott",
+  "anio": 2000,
+  "genero": "Acción / Drama",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "Estrategia política y supervivencia en el Imperio Romano.",
+  "imagen": "https://image.tmdb.org/t/p/w500/p08mUnCktZ2opGihZTAn7OqzOoi.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf131"
+  },
+  "titulo": "Fight Club",
+  "tipo": "pelicula",
+  "director": "David Fincher",
+  "anio": 1999,
+  "genero": "Drama / Crítica Social",
+  "mbti": [
+    "INTJ",
+    "ENTP"
+  ],
+  "descripcion": "Exploración de la insatisfacción y la desestructuración del sistema.",
+  "imagen": "https://image.tmdb.org/t/p/w500/bI0BhpswEApC0B17RhLZtRVPZiQ.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf132"
+  },
+  "titulo": "Zero Dark Thirty",
+  "tipo": "pelicula",
+  "director": "Kathryn Bigelow",
+  "anio": 2012,
+  "genero": "Thriller / Historia",
+  "mbti": [
+    "INTJ",
+    "ESTJ"
+  ],
+  "descripcion": "El uso metódico de inteligencia y estrategia para una misión de alta prioridad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/e5jMs38saY3yUGNAbRYMsul1eq5.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf133"
+  },
+  "titulo": "The Martian",
+  "tipo": "pelicula",
+  "director": "Ridley Scott",
+  "anio": 2015,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Resolución de problemas técnicos complejos para sobrevivir en Marte.",
+  "imagen": "https://image.tmdb.org/t/p/w500/qIdNS0BnR3YamVIHDmgRo22d7qK.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf134"
+  },
+  "titulo": "Thank You for Smoking",
+  "tipo": "pelicula",
+  "director": "Jason Reitman",
+  "anio": 2005,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ENTP",
+    "ENTJ"
+  ],
+  "descripcion": "El arte de la argumentación y la persuasión en el mundo corporativo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/wIOfcMgsgqNqdx2Z0MkLFsfz8SQ.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf135"
+  },
+  "titulo": "Good Will Hunting",
+  "tipo": "pelicula",
+  "director": "Gus Van Sant",
+  "anio": 1997,
+  "genero": "Drama",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "El viaje intelectual y emocional de un genio incomprendido.",
+  "imagen": "https://image.tmdb.org/t/p/w500/bTmmTMyCi7Cd85sS4rz9tlM0iU3.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf136"
+  },
+  "titulo": "Margin Call",
+  "tipo": "pelicula",
+  "director": "J.C. Chandor",
+  "anio": 2011,
+  "genero": "Drama",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "El análisis de riesgos y la toma de decisiones bajo máxima presión financiera.",
+  "imagen": "https://image.tmdb.org/t/p/w500/lb79wPjijIXf1ZE6KhWVGUtv9AF.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf137"
+  },
+  "titulo": "The Game",
+  "tipo": "pelicula",
+  "director": "David Fincher",
+  "anio": 1997,
+  "genero": "Misterio / Thriller",
+  "mbti": [
+    "INTJ",
+    "ENTP"
+  ],
+  "descripcion": "Un juego de realidad inmersiva que desafía la lógica del protagonista.",
+  "imagen": "https://image.tmdb.org/t/p/w500/us1lgJerKgrDqfGyMMwM9m9UIMj.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf138"
+  },
+  "titulo": "Lord of War",
+  "tipo": "pelicula",
+  "director": "Andrew Niccol",
+  "anio": 2005,
+  "genero": "Drama / Thriller",
+  "mbti": [
+    "ENTP",
+    "ENTJ"
+  ],
+  "descripcion": "Análisis logístico y estratégico del tráfico de armas a nivel mundial.",
+  "imagen": "https://image.tmdb.org/t/p/w500/tzmXFYq9OhUNYATAtbCuNr1Nin9.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf139"
+  },
+  "titulo": "Arrival",
+  "tipo": "pelicula",
+  "director": "Denis Villeneuve",
+  "anio": 2016,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "La estructura del lenguaje y su relación con la percepción del tiempo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf140"
+  },
+  "titulo": "Minority Report",
+  "tipo": "pelicula",
+  "director": "Steven Spielberg",
+  "anio": 2002,
+  "genero": "Ciencia Ficción / Thriller",
+  "mbti": [
+    "INTJ",
+    "ENTJ"
+  ],
+  "descripcion": "La predicción de sistemas criminales basada en la lógica y la probabilidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/q5qipy536mgsejg6AWPP9lmkGkG.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf141"
+  },
+  "titulo": "Primer",
+  "tipo": "pelicula",
+  "director": "Shane Carruth",
+  "anio": 2004,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Un rompecabezas técnico sobre la causalidad y el viaje temporal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oq3FNtXWMb42XNDxdQEYxmi8ZhG.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf142"
+  },
+  "titulo": "The Prestige",
+  "tipo": "pelicula",
+  "director": "Christopher Nolan",
+  "anio": 2006,
+  "genero": "Drama / Misterio",
+  "mbti": [
+    "INTJ",
+    "ENTJ"
+  ],
+  "descripcion": "La obsesión por el perfeccionismo técnico y el secreto industrial.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6NHAZLR4AJhBAVU4qFzkucfyhVl.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf143"
+  },
+  "titulo": "A Clockwork Orange",
+  "tipo": "pelicula",
+  "director": "Stanley Kubrick",
+  "anio": 1971,
+  "genero": "Ciencia Ficción / Drama",
+  "mbti": [
+    "ENTP",
+    "INTJ"
+  ],
+  "descripcion": "Exploración distópica sobre el condicionamiento conductual.",
+  "imagen": "https://image.tmdb.org/t/p/w500/dWXOBtBNhY3XRtrzIeLDCKOBn7q.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf144"
+  },
+  "titulo": "Cube",
+  "tipo": "pelicula",
+  "director": "Vincenzo Natali",
+  "anio": 1997,
+  "genero": "Ciencia Ficción / Thriller",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Un sistema matemático atrapa a personas en un laberinto mortal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ngM6WtSC1bzcST3QzbCiDYsxo7E.jpg",
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf145"
+  },
+  "titulo": "Dr. Strangelove",
+  "tipo": "pelicula",
+  "director": "Stanley Kubrick",
+  "anio": 1964,
+  "genero": "Comedia / Sátira",
+  "mbti": [
+    "ENTP",
+    "INTP"
+  ],
+  "descripcion": "Sátira sobre la burocracia y la lógica fallida en la guerra nuclear.",
+  "imagen": "https://image.tmdb.org/t/p/w500/jxJJaYFKOx4BalndHa2HdePG5aC.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf146"
+  },
+  "titulo": "The Man from Earth",
+  "tipo": "pelicula",
+  "director": "Richard Schenkman",
+  "anio": 2007,
+  "genero": "Drama / Ciencia Ficción",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Un diálogo intelectual sobre la historia y la inmortalidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/uN3X6JZhcEZqLTeQ8r5CKEmKeix.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf147"
+  },
+  "titulo": "Primer",
+  "tipo": "pelicula",
+  "director": "Shane Carruth",
+  "anio": 2004,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Desglose de la lógica de las líneas temporales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oq3FNtXWMb42XNDxdQEYxmi8ZhG.jpg",
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf148"
+  },
+  "titulo": "Donnie Darko",
+  "tipo": "pelicula",
+  "director": "Richard Kelly",
+  "anio": 2001,
+  "genero": "Ciencia Ficción / Drama",
+  "mbti": [
+    "INTP",
+    "ENTP"
+  ],
+  "descripcion": "Una exploración sobre el tiempo y el destino.",
+  "imagen": "https://image.tmdb.org/t/p/w500/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf149"
+  },
+  "titulo": "Blade Runner",
+  "tipo": "pelicula",
+  "director": "Ridley Scott",
+  "anio": 1982,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "El cuestionamiento filosófico de la consciencia sintética.",
+  "imagen": "https://image.tmdb.org/t/p/w500/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf150"
+  },
+  "titulo": "Gattaca",
+  "tipo": "pelicula",
+  "director": "Andrew Niccol",
+  "anio": 1997,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "ENTJ"
+  ],
+  "descripcion": "Determinismo genético versus la fuerza de voluntad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/1gXcEISnpV8IXCylhGI4eyBKjM.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf201"
+  },
+  "titulo": "Eternal Sunshine of the Spotless Mind",
+  "tipo": "pelicula",
+  "director": "Michel Gondry",
+  "anio": 2004,
+  "genero": "Drama / Romance / Sci-Fi",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "Una exploración profunda sobre el amor, la memoria y el dolor emocional.",
+  "imagen": "https://image.tmdb.org/t/p/w500/l5yopdLguxJsJVmMK3RgMCW2JmJ.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf202"
+  },
+  "titulo": "Dead Poets Society",
+  "tipo": "pelicula",
+  "director": "Peter Weir",
+  "anio": 1989,
+  "genero": "Drama",
+  "mbti": [
+    "ENFP",
+    "INFP",
+    "ENFJ"
+  ],
+  "descripcion": "La importancia de la expresión personal, el idealismo y el 'Carpe Diem'.",
+  "imagen": "https://image.tmdb.org/t/p/w500/1ZxpicszG54X05A1BccRo51Wgg4.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf203"
+  },
+  "titulo": "Her",
+  "tipo": "pelicula",
+  "director": "Spike Jonze",
+  "anio": 2013,
+  "genero": "Drama / Romance / Sci-Fi",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "Un hombre se enamora de un sistema operativo, explorando la soledad moderna.",
+  "imagen": "https://image.tmdb.org/t/p/w500/n1sY9uAsQKOus91A4FtvN3JdHYH.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf204"
+  },
+  "titulo": "Amélie",
+  "tipo": "pelicula",
+  "director": "Jean-Pierre Jeunet",
+  "anio": 2001,
+  "genero": "Comedia / Romance",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "Una joven idealista busca cambiar la vida de quienes la rodean.",
+  "imagen": "https://image.tmdb.org/t/p/w500/mYvUib00miJWxWkiXhy3QnrCj96.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf205"
+  },
+  "titulo": "The Truman Show",
+  "tipo": "pelicula",
+  "director": "Peter Weir",
+  "anio": 1998,
+  "genero": "Drama / Comedia",
+  "mbti": [
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "La búsqueda de la verdad existencial frente a un mundo construido.",
+  "imagen": "https://image.tmdb.org/t/p/w500/2lilvy7r5TR0uLI8eCtVqkUiTls.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf206"
+  },
+  "titulo": "Schindler's List",
+  "tipo": "pelicula",
+  "director": "Steven Spielberg",
+  "anio": 1993,
+  "genero": "Drama / Historia",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "El impacto transformador de la compasión humana en tiempos de crisis.",
+  "imagen": "https://image.tmdb.org/t/p/w500/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf207"
+  },
+  "titulo": "Inside Out",
+  "tipo": "pelicula",
+  "director": "Pete Docter",
+  "anio": 2015,
+  "genero": "Animación / Familia",
+  "mbti": [
+    "ENFP",
+    "ENFJ"
+  ],
+  "descripcion": "Una representación visual del mundo emocional interno.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ewEX6VcVohyrQ52usZb1XovN1Bj.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf208"
+  },
+  "titulo": "Into the Wild",
+  "tipo": "pelicula",
+  "director": "Sean Penn",
+  "anio": 2007,
+  "genero": "Aventura / Drama",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "La búsqueda de un significado puro lejos de las convenciones sociales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/nsukpCUlvOfcZEcMIBN1m4coUkd.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf209"
+  },
+  "titulo": "Wonder",
+  "tipo": "pelicula",
+  "director": "Stephen Chbosky",
+  "anio": 2017,
+  "genero": "Drama / Familia",
+  "mbti": [
+    "ENFJ",
+    "ISFJ"
+  ],
+  "descripcion": "Una historia conmovedora sobre la empatía y la aceptación.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ajrtVh7xN8HwoFXHkEDRjMjye1d.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf210"
+  },
+  "titulo": "Arrival",
+  "tipo": "pelicula",
+  "director": "Denis Villeneuve",
+  "anio": 2016,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "La comunicación, la empatía y la percepción del tiempo y el destino.",
+  "imagen": "https://image.tmdb.org/t/p/w500/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf211"
+  },
+  "titulo": "Moonrise Kingdom",
+  "tipo": "pelicula",
+  "director": "Wes Anderson",
+  "anio": 2012,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "El primer amor visto desde una perspectiva única y estética.",
+  "imagen": "https://image.tmdb.org/t/p/w500/rAKTQI0l2tOUylmZutzuypWA1PL.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf212"
+  },
+  "titulo": "Les Misérables",
+  "tipo": "pelicula",
+  "director": "Tom Hooper",
+  "anio": 2012,
+  "genero": "Musical / Drama",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "Sacrificio, redención y la lucha por un ideal de justicia.",
+  "imagen": "https://image.tmdb.org/t/p/w500/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf213"
+  },
+  "titulo": "Little Women",
+  "tipo": "pelicula",
+  "director": "Greta Gerwig",
+  "anio": 2019,
+  "genero": "Drama",
+  "mbti": [
+    "ENFP",
+    "INFP",
+    "ENFJ"
+  ],
+  "descripcion": "Crecimiento, ambición y la importancia de los lazos afectivos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/z2wBWFEQ9FE0RcjmWXz3vvSNPfT.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf214"
+  },
+  "titulo": "The Secret Life of Walter Mitty",
+  "tipo": "pelicula",
+  "director": "Ben Stiller",
+  "anio": 2013,
+  "genero": "Aventura / Drama",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "El despertar de una vida de ensueño hacia la realidad vivida.",
+  "imagen": "https://image.tmdb.org/t/p/w500/2qptJOe5fFyFv66t79aKehf1ky1.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf215"
+  },
+  "titulo": "Coco",
+  "tipo": "pelicula",
+  "director": "Lee Unkrich",
+  "anio": 2017,
+  "genero": "Animación / Fantasía",
+  "mbti": [
+    "ENFJ",
+    "ENFP"
+  ],
+  "descripcion": "La importancia de la memoria, la familia y honrar nuestras raíces.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf216"
+  },
+  "titulo": "La sociedad de los poetas muertos",
+  "tipo": "pelicula",
+  "director": "Peter Weir",
+  "anio": 1989,
+  "genero": "Drama",
+  "mbti": [
+    "ENFP",
+    "INFP",
+    "ENFJ"
+  ],
+  "descripcion": "Un maestro inspira a sus alumnos a desafiar las normas a través de la poesía.",
+  "imagen": "https://image.tmdb.org/t/p/w500/1ZxpicszG54X05A1BccRo51Wgg4.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf217"
+  },
+  "titulo": "El laberinto del fauno",
+  "tipo": "pelicula",
+  "director": "Guillermo del Toro",
+  "anio": 2006,
+  "genero": "Fantasía oscura / Drama",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "La cruda realidad de la posguerra española vista a través de una imaginación rica.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6mLdx2asXKNXAq1PGETiopCWWvm.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf218"
+  },
+  "titulo": "Cyrano de Bergerac",
+  "tipo": "pelicula",
+  "director": "Jean-Paul Rappeneau",
+  "anio": 1990,
+  "genero": "Romance / Drama",
+  "mbti": [
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "Una historia de amor idealizado, sacrificio y la belleza de las palabras.",
+  "imagen": "https://image.tmdb.org/t/p/w500/1ek5a0cOAea7U3DdwZmeFSrRRt5.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf219"
+  },
+  "titulo": "El color púrpura",
+  "tipo": "pelicula",
+  "director": "Steven Spielberg",
+  "anio": 1985,
+  "genero": "Drama",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "La resiliencia y el crecimiento espiritual de una mujer ante la adversidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/mHtsBevQRqQebP4yykJfJcdO2R.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf220"
+  },
+  "titulo": "La vida es bella",
+  "tipo": "pelicula",
+  "director": "Roberto Benigni",
+  "anio": 1997,
+  "genero": "Comedia / Drama / Guerra",
+  "mbti": [
+    "ENFP",
+    "ENFJ"
+  ],
+  "descripcion": "El uso del optimismo y la imaginación para proteger a un ser querido.",
+  "imagen": "https://image.tmdb.org/t/p/w500/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf221"
+  },
+  "titulo": "El club de la lucha (versión filosófica)",
+  "tipo": "pelicula",
+  "director": "David Fincher",
+  "anio": 1999,
+  "genero": "Drama",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "Una mirada al vacío existencial y la búsqueda de identidad personal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/fight_club_phi.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf222"
+  },
+  "titulo": "Hacia rutas salvajes",
+  "tipo": "pelicula",
+  "director": "Sean Penn",
+  "anio": 2007,
+  "genero": "Aventura / Drama",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "La renuncia a las expectativas sociales para buscar una verdad auténtica.",
+  "imagen": "https://image.tmdb.org/t/p/w500/nsukpCUlvOfcZEcMIBN1m4coUkd.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf223"
+  },
+  "titulo": "El gran pez",
+  "tipo": "pelicula",
+  "director": "Tim Burton",
+  "anio": 2003,
+  "genero": "Fantasía / Drama",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "La narrativa como medio para entender nuestra propia historia y relaciones.",
+  "imagen": "https://image.tmdb.org/t/p/w500/dbKtMJuwd8pKsh1TgFabu2rI8PR.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf224"
+  },
+  "titulo": "La llegada",
+  "tipo": "pelicula",
+  "director": "Denis Villeneuve",
+  "anio": 2016,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "La conexión humana trasciende el lenguaje y el tiempo lineal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/tbVITeytclB4JKx2LxxasrCCmZx.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf225"
+  },
+  "titulo": "Mi vecino Totoro",
+  "tipo": "pelicula",
+  "director": "Hayao Miyazaki",
+  "anio": 1988,
+  "genero": "Animación / Fantasía",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "Una visión pura y empática de la conexión con el entorno natural.",
+  "imagen": "https://image.tmdb.org/t/p/w500/uu6RaEAfkIQaolf20axWaRU4h3w.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf226"
+  },
+  "titulo": "El diario de Noa",
+  "tipo": "pelicula",
+  "director": "Nick Cassavetes",
+  "anio": 2004,
+  "genero": "Romance / Drama",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "La persistencia del compromiso emocional a través de toda una vida.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kdJNpBcLJH0nDis8cjQHGjaAbRl.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf227"
+  },
+  "titulo": "La lista de Schindler",
+  "tipo": "pelicula",
+  "director": "Steven Spielberg",
+  "anio": 1993,
+  "genero": "Drama / Historia",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "El peso del liderazgo moral en medio de la injusticia total.",
+  "imagen": "https://image.tmdb.org/t/p/w500/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf228"
+  },
+  "titulo": "Mentes peligrosas",
+  "tipo": "pelicula",
+  "director": "John N. Smith",
+  "anio": 1995,
+  "genero": "Drama",
+  "mbti": [
+    "ENFJ",
+    "ENFP"
+  ],
+  "descripcion": "El idealismo aplicado para rescatar el potencial en los demás.",
+  "imagen": "https://image.tmdb.org/t/p/w500/zaX7L7h77gQw9T6CajsxD9jB9S6.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf229"
+  },
+  "titulo": "Billy Elliot",
+  "tipo": "pelicula",
+  "director": "Stephen Daldry",
+  "anio": 2000,
+  "genero": "Drama",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "La expresión personal desafiando las expectativas sociales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/lN6JppeFXbPFXFREickSSeHOjCz.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf230"
+  },
+  "titulo": "Orgullo y prejuicio (2005)",
+  "tipo": "pelicula",
+  "director": "Joe Wright",
+  "anio": 2005,
+  "genero": "Romance / Drama",
+  "mbti": [
+    "INFJ",
+    "ENFP"
+  ],
+  "descripcion": "El análisis de la profundidad humana más allá de las apariencias sociales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/aTqeJJSt4cLP3TzWlN75OMbNbN6.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf231"
+  },
+  "titulo": "El club de la lucha",
+  "tipo": "pelicula",
+  "director": "David Fincher",
+  "anio": 1999,
+  "genero": "Drama",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "La desilusión ante el consumismo y la búsqueda de una verdad interna.",
+  "imagen": "https://image.tmdb.org/t/p/w500/bI0BhpswEApC0B17RhLZtRVPZiQ.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf232"
+  },
+  "titulo": "Siete años en el Tíbet",
+  "tipo": "pelicula",
+  "director": "Jean-Jacques Annaud",
+  "anio": 1997,
+  "genero": "Biografía / Drama",
+  "mbti": [
+    "INFJ",
+    "ENFP"
+  ],
+  "descripcion": "El viaje de transformación personal y espiritual en un entorno sagrado.",
+  "imagen": "https://image.tmdb.org/t/p/w500/g6XNFyyOBU1CqLRjFDeP7AfxK2X.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf233"
+  },
+  "titulo": "Antes del amanecer",
+  "tipo": "pelicula",
+  "director": "Richard Linklater",
+  "anio": 1995,
+  "genero": "Romance / Drama",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "La belleza del encuentro profundo y la conexión intelectual instantánea.",
+  "imagen": "https://image.tmdb.org/t/p/w500/uw9vx5M0qwkU1QnBNG4CXCgwYB3.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf234"
+  },
+  "titulo": "La princesa Mononoke",
+  "tipo": "pelicula",
+  "director": "Hayao Miyazaki",
+  "anio": 1997,
+  "genero": "Animación / Fantasía",
+  "mbti": [
+    "INFJ",
+    "ENFJ"
+  ],
+  "descripcion": "El equilibrio entre la humanidad y la naturaleza visto desde el idealismo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/7fUjg7jky5FnnNSiSbWyOlxVYGU.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf235"
+  },
+  "titulo": "El club de los poetas muertos",
+  "tipo": "pelicula",
+  "director": "Peter Weir",
+  "anio": 1989,
+  "genero": "Drama",
+  "mbti": [
+    "ENFJ",
+    "ENFP"
+  ],
+  "descripcion": "El impacto duradero de un mentor que fomenta el pensamiento libre.",
+  "imagen": "https://image.tmdb.org/t/p/w500/1ZxpicszG54X05A1BccRo51Wgg4.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf236"
+  },
+  "titulo": "Corazón valiente",
+  "tipo": "pelicula",
+  "director": "Mel Gibson",
+  "anio": 1995,
+  "genero": "Drama / Histórico",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "La lucha incansable por un ideal de libertad y justicia.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6snCuOuKwWnATAOTTumAtRImuoo.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf237"
+  },
+  "titulo": "Amélie",
+  "tipo": "pelicula",
+  "director": "Jean-Pierre Jeunet",
+  "anio": 2001,
+  "genero": "Comedia / Romance",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "Pequeños actos de bondad que transforman el mundo personal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/mYvUib00miJWxWkiXhy3QnrCj96.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf238"
+  },
+  "titulo": "Pocahontas",
+  "tipo": "pelicula",
+  "director": "Mike Gabriel",
+  "anio": 1995,
+  "genero": "Animación",
+  "mbti": [
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "La búsqueda de armonía y la escucha de la sabiduría interior.",
+  "imagen": "https://image.tmdb.org/t/p/w500/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg",
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf239"
+  },
+  "titulo": "La forma del agua",
+  "tipo": "pelicula",
+  "director": "Guillermo del Toro",
+  "anio": 2017,
+  "genero": "Fantasía / Romance",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "Una conexión empática silenciosa fuera de las normas establecidas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ahsMZ2PCIVi5qGoPKjjeG3ZznjA.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf240"
+  },
+  "titulo": "Cloud Atlas",
+  "tipo": "pelicula",
+  "director": "Las Hermanas Wachowski",
+  "anio": 2012,
+  "genero": "Ciencia Ficción / Drama",
+  "mbti": [
+    "INFJ",
+    "ENFP"
+  ],
+  "descripcion": "La interconexión de todas las acciones humanas a través del tiempo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kPj7A7Hk6GbVJFw4u0bytNFUD1e.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf301"
+  },
+  "titulo": "Rescatando al soldado Ryan",
+  "tipo": "pelicula",
+  "director": "Steven Spielberg",
+  "anio": 1998,
+  "genero": "Guerra / Drama",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "El cumplimiento del deber y el sacrificio en un contexto de guerra.",
+  "imagen": "https://image.tmdb.org/t/p/w500/yfExW9uPK4idbUDjRGBlXLbMxRR.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf302"
+  },
+  "titulo": "Forrest Gump",
+  "tipo": "pelicula",
+  "director": "Robert Zemeckis",
+  "anio": 1994,
+  "genero": "Drama / Romance",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "La honestidad, la constancia y el respeto a los valores tradicionales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/azV6hV99lYkdhydsQbJCI6FqMl4.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf303"
+  },
+  "titulo": "Apolo 13",
+  "tipo": "pelicula",
+  "director": "Ron Howard",
+  "anio": 1995,
+  "genero": "Drama / Histórico",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "Trabajo en equipo, protocolos técnicos y resolución de problemas bajo presión.",
+  "imagen": "https://image.tmdb.org/t/p/w500/h6RBssorNWZQYZN5M4ys9V6Uy0I.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf304"
+  },
+  "titulo": "El padrino",
+  "tipo": "pelicula",
+  "director": "Francis Ford Coppola",
+  "anio": 1972,
+  "genero": "Crimen / Drama",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "La importancia de la lealtad, la familia y las estructuras de poder.",
+  "imagen": "https://image.tmdb.org/t/p/w500/tUeZeWzbw37sOIpDsuK8qq8Unor.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf305"
+  },
+  "titulo": "Matar a un ruiseñor",
+  "tipo": "pelicula",
+  "director": "Robert Mulligan",
+  "anio": 1962,
+  "genero": "Drama",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "La integridad moral y el cumplimiento de la ley en la comunidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/peGBdkn9aSFl6L0MeqepFJTU3PR.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf306"
+  },
+  "titulo": "Doce hombres en pugna",
+  "tipo": "pelicula",
+  "director": "Sidney Lumet",
+  "anio": 1957,
+  "genero": "Drama judicial",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "El proceso deliberativo, los hechos y el respeto al sistema judicial.",
+  "imagen": "https://image.tmdb.org/t/p/w500/andXPjcmwHstD4zFccFlOKMgoBh.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf307"
+  },
+  "titulo": "El diario de Noa",
+  "tipo": "pelicula",
+  "director": "Nick Cassavetes",
+  "anio": 2004,
+  "genero": "Romance / Drama",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "El compromiso a largo plazo y la devoción familiar.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kdJNpBcLJH0nDis8cjQHGjaAbRl.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf308"
+  },
+  "titulo": "Un ciudadano ejemplar",
+  "tipo": "pelicula",
+  "director": "F. Gary Gray",
+  "anio": 2009,
+  "genero": "Thriller / Acción",
+  "mbti": [
+    "ESTJ",
+    "ISTJ"
+  ],
+  "descripcion": "La búsqueda metódica de justicia y el orden a través de reglas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/qcmMHHGQA8CjzZkr5OeBpM6kmcT.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf309"
+  },
+  "titulo": "Mary Poppins",
+  "tipo": "pelicula",
+  "director": "Robert Stevenson",
+  "anio": 1964,
+  "genero": "Familia / Fantasía",
+  "mbti": [
+    "ESFJ",
+    "ESTJ"
+  ],
+  "descripcion": "El orden, la disciplina y la estabilidad en el hogar.",
+  "imagen": "https://image.tmdb.org/t/p/w500/8hU9v0EYEiAWYOkROcy4iWnSNpl.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf310"
+  },
+  "titulo": "El becario",
+  "tipo": "pelicula",
+  "director": "Nancy Meyers",
+  "anio": 2015,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ISTJ",
+    "ISFJ"
+  ],
+  "descripcion": "La experiencia, el trabajo duro y los buenos modales en la oficina.",
+  "imagen": "https://image.tmdb.org/t/p/w500/26i2Mfe4n9gRHWk4sqjLEDbi1wM.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf311"
+  },
+  "titulo": "La lista de Schindler",
+  "tipo": "pelicula",
+  "director": "Steven Spielberg",
+  "anio": 1993,
+  "genero": "Drama / Historia",
+  "mbti": [
+    "ESTJ",
+    "ISTJ"
+  ],
+  "descripcion": "La organización, la logística y la responsabilidad durante una crisis.",
+  "imagen": "https://image.tmdb.org/t/p/w500/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf312"
+  },
+  "titulo": "Gran Torino",
+  "tipo": "pelicula",
+  "director": "Clint Eastwood",
+  "anio": 2008,
+  "genero": "Drama",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "Valores tradicionales, disciplina y defensa de la comunidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/7w54KRHdRokgXqxL59GKVau8e6l.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf313"
+  },
+  "titulo": "El sonido de la música",
+  "tipo": "pelicula",
+  "director": "Robert Wise",
+  "anio": 1965,
+  "genero": "Musical / Familia",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "Tradición, familia y servicio.",
+  "imagen": "https://image.tmdb.org/t/p/w500/sound_music.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf314"
+  },
+  "titulo": "El contable",
+  "tipo": "pelicula",
+  "director": "Gavin O'Connor",
+  "anio": 2016,
+  "genero": "Acción / Thriller",
+  "mbti": [
+    "ISTJ"
+  ],
+  "descripcion": "Precisión, rutina y el cumplimiento de tareas metódicas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/vydyhlv2fOqQYbzWmschOkupgOb.jpg",
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf315"
+  },
+  "titulo": "Invictus",
+  "tipo": "pelicula",
+  "director": "Clint Eastwood",
+  "anio": 2009,
+  "genero": "Drama / Deportes",
+  "mbti": [
+    "ESTJ",
+    "ESFJ"
+  ],
+  "descripcion": "Liderazgo, disciplina y unidad nacional a través de las reglas del deporte.",
+  "imagen": "https://image.tmdb.org/t/p/w500/gWW20yeF5t6ZHn3gCjidLuWtQMU.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf316"
+  },
+  "titulo": "Sully: Hazaña en el Hudson",
+  "tipo": "pelicula",
+  "director": "Clint Eastwood",
+  "anio": 2016,
+  "genero": "Drama / Biografía",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "La importancia de la experiencia, el entrenamiento técnico y la responsabilidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/n6vCZhzy8yVKCMCRBrYAaUMLiBB.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf317"
+  },
+  "titulo": "Orgullo y prejuicio",
+  "tipo": "pelicula",
+  "director": "Joe Wright",
+  "anio": 2005,
+  "genero": "Drama / Romance",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "El respeto a las costumbres, la familia y la estructura social.",
+  "imagen": "https://image.tmdb.org/t/p/w500/aTqeJJSt4cLP3TzWlN75OMbNbN6.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf318"
+  },
+  "titulo": "El discurso del rey",
+  "tipo": "pelicula",
+  "director": "Tom Hooper",
+  "anio": 2010,
+  "genero": "Drama / Biografía",
+  "mbti": [
+    "ISTJ",
+    "ISFJ"
+  ],
+  "descripcion": "El cumplimiento del deber real y la superación personal a través del método.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ayrDCichVVOovfAikiS5NTmq8Wb.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf319"
+  },
+  "titulo": "Spotlight",
+  "tipo": "pelicula",
+  "director": "Tom McCarthy",
+  "anio": 2015,
+  "genero": "Drama / Periodismo",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "La investigación metódica, la búsqueda de la verdad y el rigor profesional.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oejKAjGVxmm8cJLiKQMGe2A2A4g.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf320"
+  },
+  "titulo": "La vida de los otros",
+  "tipo": "pelicula",
+  "director": "Florian Henckel von Donnersmarck",
+  "anio": 2006,
+  "genero": "Drama / Thriller",
+  "mbti": [
+    "ISTJ"
+  ],
+  "descripcion": "La estricta obediencia a las reglas y su posterior cuestionamiento moral.",
+  "imagen": "https://image.tmdb.org/t/p/w500/huApj1ufTmVTDcKqi2SY3zmqcyJ.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf321"
+  },
+  "titulo": "The Intern",
+  "tipo": "pelicula",
+  "director": "Nancy Meyers",
+  "anio": 2015,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "Valores tradicionales de trabajo, puntualidad y apoyo al equipo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/26i2Mfe4n9gRHWk4sqjLEDbi1wM.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf322"
+  },
+  "titulo": "Capitán Phillips",
+  "tipo": "pelicula",
+  "director": "Paul Greengrass",
+  "anio": 2013,
+  "genero": "Acción / Drama",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "Protocolos de emergencia, resiliencia y mando ante una crisis real.",
+  "imagen": "https://image.tmdb.org/t/p/w500/mW3rSOoC99HX6tBUEU3j6Mn4d4H.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf323"
+  },
+  "titulo": "El puente de los espías",
+  "tipo": "pelicula",
+  "director": "Steven Spielberg",
+  "anio": 2015,
+  "genero": "Drama / Histórico",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "La importancia de seguir las reglas legales incluso en tiempos inciertos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/eEMHaQZGaFqvXa46cdywMDIY1Vg.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf324"
+  },
+  "titulo": "Little Women",
+  "tipo": "pelicula",
+  "director": "Greta Gerwig",
+  "anio": 2019,
+  "genero": "Drama",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "La devoción por la familia y la preservación de los valores en el hogar.",
+  "imagen": "https://image.tmdb.org/t/p/w500/z2wBWFEQ9FE0RcjmWXz3vvSNPfT.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf325"
+  },
+  "titulo": "El color del dinero",
+  "tipo": "pelicula",
+  "director": "Martin Scorsese",
+  "anio": 1986,
+  "genero": "Drama / Deportes",
+  "mbti": [
+    "ESTJ",
+    "ISTJ"
+  ],
+  "descripcion": "La disciplina férrea y el perfeccionamiento de una técnica a través de la repetición.",
+  "imagen": "https://image.tmdb.org/t/p/w500/eGtURb1zBDPtaoo3umzM5ZH8dvH.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf326"
+  },
+  "titulo": "Up",
+  "tipo": "pelicula",
+  "director": "Pete Docter",
+  "anio": 2009,
+  "genero": "Animación / Aventura",
+  "mbti": [
+    "ISTJ",
+    "ISFJ"
+  ],
+  "descripcion": "La importancia de honrar las promesas y mantener las tradiciones personales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/vSdpOU6rDK7IpmOD7iAvlZdMUCc.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf327"
+  },
+  "titulo": "El luchador",
+  "tipo": "pelicula",
+  "director": "Darren Aronofsky",
+  "anio": 2008,
+  "genero": "Drama",
+  "mbti": [
+    "ISTJ"
+  ],
+  "descripcion": "La rutina física, el sacrificio constante y el deber con su oficio.",
+  "imagen": "https://image.tmdb.org/t/p/w500/hQpBhEHCFNYgakxpP6pAVB2k3fp.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf328"
+  },
+  "titulo": "La era de hielo",
+  "tipo": "pelicula",
+  "director": "Chris Wedge",
+  "anio": 2002,
+  "genero": "Animación / Familia",
+  "mbti": [
+    "ESFJ",
+    "ESTJ"
+  ],
+  "descripcion": "El valor del grupo, la manada y la protección mutua.",
+  "imagen": "https://image.tmdb.org/t/p/w500/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf329"
+  },
+  "titulo": "Hacksaw Ridge",
+  "tipo": "pelicula",
+  "director": "Mel Gibson",
+  "anio": 2016,
+  "genero": "Guerra / Drama",
+  "mbti": [
+    "ISTJ",
+    "ISFJ"
+  ],
+  "descripcion": "La integridad absoluta hacia las creencias propias y el deber con los compañeros.",
+  "imagen": "https://image.tmdb.org/t/p/w500/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf330"
+  },
+  "titulo": "El lado bueno de las cosas",
+  "tipo": "pelicula",
+  "director": "David O. Russell",
+  "anio": 2012,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ESFJ",
+    "ISFJ"
+  ],
+  "descripcion": "La importancia de las dinámicas familiares y la búsqueda de una estructura estable.",
+  "imagen": "https://image.tmdb.org/t/p/w500/fLJ8HeOTV2yilfBtU7RRzPDZ3tk.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf331"
+  },
+  "titulo": "The King's Speech",
+  "tipo": "pelicula",
+  "director": "Tom Hooper",
+  "anio": 2010,
+  "genero": "Drama / Biografía",
+  "mbti": [
+    "ISTJ",
+    "ISFJ"
+  ],
+  "descripcion": "El cumplimiento estricto del deber real y la disciplina personal para cumplir una función pública.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ayrDCichVVOovfAikiS5NTmq8Wb.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf332"
+  },
+  "titulo": "Saving Private Ryan",
+  "tipo": "pelicula",
+  "director": "Steven Spielberg",
+  "anio": 1998,
+  "genero": "Guerra / Drama",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "El sentido del deber, la jerarquía y el sacrificio por el bien común.",
+  "imagen": "https://image.tmdb.org/t/p/w500/yfExW9uPK4idbUDjRGBlXLbMxRR.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f3bf333"
+  },
+  "titulo": "The Pursuit of Happyness",
+  "tipo": "pelicula",
+  "director": "Gabriele Muccino",
+  "anio": 2006,
+  "genero": "Drama / Biografía",
+  "mbti": [
+    "ESTJ",
+    "ISTJ"
+  ],
+  "descripcion": "La perseverancia incansable, el trabajo duro y la responsabilidad para mejorar la vida familiar.",
+  "imagen": "https://image.tmdb.org/t/p/w500/j6SLmHzB1R91K9u52QgUv1BIqhT.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf334"
+  },
+  "titulo": "Remember the Titans",
+  "tipo": "pelicula",
+  "director": "Boaz Yakin",
+  "anio": 2000,
+  "genero": "Drama / Deportes",
+  "mbti": [
+    "ESTJ",
+    "ESFJ"
+  ],
+  "descripcion": "Liderazgo basado en normas, disciplina deportiva y cohesión comunitaria.",
+  "imagen": "https://image.tmdb.org/t/p/w500/fh9fyi0pEpsY1vli8b0myyqRuJ2.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf335"
+  },
+  "titulo": "Hidden Figures",
+  "tipo": "pelicula",
+  "director": "Theodore Melfi",
+  "anio": 2016,
+  "genero": "Drama / Historia",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "Precisión matemática, trabajo riguroso y cumplimiento de objetivos bajo estricta jerarquía.",
+  "imagen": "https://image.tmdb.org/t/p/w500/vTCLPuqNhw0cmftToCUdgqMfPq2.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf336"
+  },
+  "titulo": "The Sound of Music",
+  "tipo": "pelicula",
+  "director": "Robert Wise",
+  "anio": 1965,
+  "genero": "Musical / Familia",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "Valores familiares, tradición y el orden dentro de un hogar estructurado.",
+  "imagen": "https://image.tmdb.org/t/p/w500/jn1OC02FKOQTxc1i2gPMmZAp0Go.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf337"
+  },
+  "titulo": "12 Angry Men",
+  "tipo": "pelicula",
+  "director": "Sidney Lumet",
+  "anio": 1957,
+  "genero": "Drama Judicial",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "El respeto por los hechos, la lógica legal y la responsabilidad del ciudadano.",
+  "imagen": "https://image.tmdb.org/t/p/w500/andXPjcmwHstD4zFccFlOKMgoBh.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf338"
+  },
+  "titulo": "Fiddler on the Roof",
+  "tipo": "pelicula",
+  "director": "Norman Jewison",
+  "anio": 1971,
+  "genero": "Musical / Drama",
+  "mbti": [
+    "ISFJ",
+    "ESFJ"
+  ],
+  "descripcion": "La importancia de las tradiciones para mantener la cohesión en la familia y la comunidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/waP7s3uinY79ekh6vGw61vAeKE5.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf339"
+  },
+  "titulo": "Apollo 13",
+  "tipo": "pelicula",
+  "director": "Ron Howard",
+  "anio": 1995,
+  "genero": "Drama / Histórico",
+  "mbti": [
+    "ISTJ",
+    "ESTJ"
+  ],
+  "descripcion": "El valor del procedimiento, la calma ante la crisis y la ejecución precisa de tareas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/h6RBssorNWZQYZN5M4ys9V6Uy0I.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf340"
+  },
+  "titulo": "Erin Brockovich",
+  "tipo": "pelicula",
+  "director": "Steven Soderbergh",
+  "anio": 2000,
+  "genero": "Drama / Biografía",
+  "mbti": [
+    "ESTJ",
+    "ESFJ"
+  ],
+  "descripcion": "La búsqueda metódica de evidencia para defender la justicia comunitaria.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oJA89DfVcMCUeZ8lmjeyNZ13QqU.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf401"
+  },
+  "titulo": "Sherlock",
+  "tipo": "serie",
+  "director": "Mark Gatiss, Steven Moffat",
+  "anio": 2010,
+  "genero": "Crimen / Misterio",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Análisis deductivo extremo y resolución de problemas complejos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf402"
+  },
+  "titulo": "Black Mirror",
+  "tipo": "serie",
+  "director": "Charlie Brooker",
+  "anio": 2011,
+  "genero": "Ciencia Ficción / Antología",
+  "mbti": [
+    "ENTP",
+    "INTJ"
+  ],
+  "descripcion": "Exploración de las consecuencias imprevistas de la tecnología.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf403"
+  },
+  "titulo": "House M.D.",
+  "tipo": "serie",
+  "director": "David Shore",
+  "anio": 2004,
+  "genero": "Drama Médico",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Diagnóstico lógico aplicado a casos médicos inexplicables.",
+  "imagen": "https://image.tmdb.org/t/p/w500/lW7MvZ4m49IUj2UrUu4z0xVVl81.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf404"
+  },
+  "titulo": "Silicon Valley",
+  "tipo": "serie",
+  "director": "Mike Judge",
+  "anio": 2014,
+  "genero": "Comedia",
+  "mbti": [
+    "INTP",
+    "ENTP"
+  ],
+  "descripcion": "Desafíos técnicos y estrategias de negocio en el sector tecnológico.",
+  "imagen": "https://image.tmdb.org/t/p/w500/8BNZrHzWEUgMdJJNUdrwryxeQW1.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf405"
+  },
+  "titulo": "Rick and Morty",
+  "tipo": "serie",
+  "director": "Justin Roiland, Dan Harmon",
+  "anio": 2013,
+  "genero": "Animación / Ciencia Ficción",
+  "mbti": [
+    "ENTP",
+    "INTJ"
+  ],
+  "descripcion": "Caos multiversal fundamentado en conceptos científicos avanzados.",
+  "imagen": "https://image.tmdb.org/t/p/w500/5Yiep9EwcQgLolg013ETBVqHxuD.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf406"
+  },
+  "titulo": "The Queen's Gambit",
+  "tipo": "serie",
+  "director": "Scott Frank, Allan Scott",
+  "anio": 2020,
+  "genero": "Drama",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Visión estratégica y perfeccionamiento táctico en el ajedrez.",
+  "imagen": "https://image.tmdb.org/t/p/w500/3Skm8boxLsoQZK9xq2chf0rQHfF.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf407"
+  },
+  "titulo": "Mr. Robot",
+  "tipo": "serie",
+  "director": "Sam Esmail",
+  "anio": 2015,
+  "genero": "Thriller / Drama",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Seguridad informática, hacking y crítica al sistema social.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf408"
+  },
+  "titulo": "Succession",
+  "tipo": "serie",
+  "director": "Jesse Armstrong",
+  "anio": 2018,
+  "genero": "Drama",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "Juegos de poder, manipulación y estrategia corporativa.",
+  "imagen": "https://image.tmdb.org/t/p/w500/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf409"
+  },
+  "titulo": "Foundation",
+  "tipo": "serie",
+  "director": "David S. Goyer, Josh Friedman",
+  "anio": 2021,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "ENTJ"
+  ],
+  "descripcion": "Psicohistoria y cálculos a escala galáctica para salvar la civilización.",
+  "imagen": "https://image.tmdb.org/t/p/w500/9kxffO5nrGBCw8pQoKEVx7q0VW7.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf410"
+  },
+  "titulo": "Death Note",
+  "tipo": "serie",
+  "director": "Tetsurō Araki",
+  "anio": 2006,
+  "genero": "Anime / Thriller",
+  "mbti": [
+    "INTJ",
+    "ENTP"
+  ],
+  "descripcion": "Duelo intelectual entre dos mentes brillantes con objetivos opuestos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/cFirFPdzle2QYyjFlLVwWUP5YAo.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf411"
+  },
+  "titulo": "Westworld",
+  "tipo": "serie",
+  "director": "Jonathan Nolan, Lisa Joy",
+  "anio": 2016,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Naturaleza de la conciencia sintética y bucles lógicos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/vRAFOKQ2JxOagiJZaGQxmqTY1yl.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf412"
+  },
+  "titulo": "Community",
+  "tipo": "serie",
+  "director": "Dan Harmon",
+  "anio": 2009,
+  "genero": "Comedia",
+  "mbti": [
+    "ENTP",
+    "INTP"
+  ],
+  "descripcion": "Humor meta-referencial y juegos de roles académicos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf413"
+  },
+  "titulo": "The Big Bang Theory",
+  "tipo": "serie",
+  "director": "Chuck Lorre, Bill Prady",
+  "anio": 2007,
+  "genero": "Comedia",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Vida académica y científica en un entorno social peculiar.",
+  "imagen": "https://image.tmdb.org/t/p/w500/2bDQWCvFxRGhdvThTJvVxueEoLl.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf414"
+  },
+  "titulo": "Dark",
+  "tipo": "serie",
+  "director": "Baran bo Odar, Jantje Friese",
+  "anio": 2017,
+  "genero": "Ciencia Ficción / Misterio",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Causalidad compleja y paradojas temporales interconectadas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/hRP7N2uI0pokxnkcMFONoOZnxbv.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf415"
+  },
+  "titulo": "House of Cards",
+  "tipo": "serie",
+  "director": "Beau Willimon",
+  "anio": 2013,
+  "genero": "Drama Político",
+  "mbti": [
+    "ENTJ",
+    "INTJ"
+  ],
+  "descripcion": "Estrategia política despiadada y ambición calculada.",
+  "imagen": "https://image.tmdb.org/t/p/w500/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf416"
+  },
+  "titulo": "The Expanse",
+  "tipo": "serie",
+  "director": "Mark Fergus, Hawk Ostby",
+  "anio": 2015,
+  "genero": "Ciencia Ficción / Drama",
+  "mbti": [
+    "INTJ",
+    "ENTJ"
+  ],
+  "descripcion": "Geopolítica espacial, tácticas militares y realismo científico.",
+  "imagen": "https://image.tmdb.org/t/p/w500/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf417"
+  },
+  "titulo": "Person of Interest",
+  "tipo": "serie",
+  "director": "Jonathan Nolan",
+  "anio": 2011,
+  "genero": "Ciencia Ficción / Crimen",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Vigilancia algorítmica y prevención de crímenes mediante inteligencia artificial.",
+  "imagen": "https://image.tmdb.org/t/p/w500/A5C2lNBCrL2M0HV73CtSpv3XcFC.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf418"
+  },
+  "titulo": "Mindhunter",
+  "tipo": "serie",
+  "director": "Joe Penhall",
+  "anio": 2017,
+  "genero": "Crimen / Drama",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Análisis psicológico riguroso para la comprensión del comportamiento criminal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/eg2eepJtJeRtCZEUJvIYyb2PnYD.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf419"
+  },
+  "titulo": "Breaking Bad",
+  "tipo": "serie",
+  "director": "Vince Gilligan",
+  "anio": 2008,
+  "genero": "Drama / Crimen",
+  "mbti": [
+    "INTJ",
+    "ENTJ"
+  ],
+  "descripcion": "Planificación estratégica y transformación de un intelecto aplicado al imperio criminal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf420"
+  },
+  "titulo": "Loki",
+  "tipo": "serie",
+  "director": "Michael Waldron",
+  "anio": 2021,
+  "genero": "Ciencia Ficción / Fantasía",
+  "mbti": [
+    "ENTP",
+    "INTJ"
+  ],
+  "descripcion": "Manipulación de las líneas temporales y análisis de las variaciones multiversales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/53aonG0QS3ynbYuuwhPtyoOwTDD.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf421"
+  },
+  "titulo": "Severance",
+  "tipo": "serie",
+  "director": "Dan Erickson",
+  "anio": 2022,
+  "genero": "Ciencia Ficción / Thriller",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Exploración de la división cognitiva y sistemas de control corporativo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/1sylo2yeVyJ8KMZgcZLSopR66DA.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf422"
+  },
+  "titulo": "Better Call Saul",
+  "tipo": "serie",
+  "director": "Vince Gilligan, Peter Gould",
+  "anio": 2015,
+  "genero": "Drama / Crimen",
+  "mbti": [
+    "ENTP",
+    "ENTJ"
+  ],
+  "descripcion": "Estrategia legal, manipulación de sistemas y astucia táctica.",
+  "imagen": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf423"
+  },
+  "titulo": "Dr. Stone",
+  "tipo": "serie",
+  "director": "Shinya Iino",
+  "anio": 2019,
+  "genero": "Anime / Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Reconstrucción de la civilización a través del método científico puro.",
+  "imagen": "https://image.tmdb.org/t/p/w500/dLlnzbDCblBXcJqFLXyvN43NIwp.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf424"
+  },
+  "titulo": "Utopia",
+  "tipo": "serie",
+  "director": "Dennis Kelly",
+  "anio": 2013,
+  "genero": "Thriller / Misterio",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Conspiraciones globales descifradas a través de patrones lógicos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/Atas96nmykMl0ugerdnLgxxaNA4.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf425"
+  },
+  "titulo": "The Mandalorian",
+  "tipo": "serie",
+  "director": "Jon Favreau",
+  "anio": 2019,
+  "genero": "Ciencia Ficción / Aventura",
+  "mbti": [
+    "INTJ",
+    "ISTJ"
+  ],
+  "descripcion": "Estrategias de supervivencia basadas en códigos de honor y análisis del entorno.",
+  "imagen": "https://image.tmdb.org/t/p/w500/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf426"
+  },
+  "titulo": "Halt and Catch Fire",
+  "tipo": "serie",
+  "director": "Christopher Cantwell, Christopher C. Rogers",
+  "anio": 2014,
+  "genero": "Drama",
+  "mbti": [
+    "ENTJ",
+    "INTP"
+  ],
+  "descripcion": "La evolución de la informática y el espíritu emprendedor disruptivo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/AtKo2gANo2QBgZN9ebTAa8hXnvv.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf427"
+  },
+  "titulo": "Cyberpunk: Edgerunners",
+  "tipo": "serie",
+  "director": "Hiroyuki Imaishi",
+  "anio": 2022,
+  "genero": "Anime / Ciencia Ficción",
+  "mbti": [
+    "ENTP",
+    "ENTJ"
+  ],
+  "descripcion": "Optimización sistémica y vida al límite en una distopía tecnológica.",
+  "imagen": "https://image.tmdb.org/t/p/w500/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf428"
+  },
+  "titulo": "Dexter",
+  "tipo": "serie",
+  "director": "James Manos Jr.",
+  "anio": 2006,
+  "genero": "Crimen / Drama",
+  "mbti": [
+    "INTJ",
+    "ISTJ"
+  ],
+  "descripcion": "Metodología forense aplicada con un control racional absoluto.",
+  "imagen": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf429"
+  },
+  "titulo": "Fringe",
+  "tipo": "serie",
+  "director": "J.J. Abrams, Alex Kurtzman, Roberto Orci",
+  "anio": 2008,
+  "genero": "Ciencia Ficción / Misterio",
+  "mbti": [
+    "INTP",
+    "INTJ"
+  ],
+  "descripcion": "Investigación de fenómenos científicos extremos y realidades alternativas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/cp1T5g1bVkxFciXR10kiiS381qt.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf430"
+  },
+  "titulo": "Counterpart",
+  "tipo": "serie",
+  "director": "Justin Marks",
+  "anio": 2017,
+  "genero": "Thriller / Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "INTP"
+  ],
+  "descripcion": "Análisis de espionaje en dos mundos paralelos y divergencias lógicas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf431"
+  },
+  "titulo": "The Umbrella Academy",
+  "tipo": "serie",
+  "director": "Steve Blackman",
+  "anio": 2019,
+  "genero": "Ciencia Ficción / Fantasía",
+  "mbti": [
+    "INTP",
+    "ENTP"
+  ],
+  "descripcion": "Resolución de paradojas temporales y dinámicas disfuncionales de alta complejidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/5rhtcR1xl1tSmH3FcMH3IJ8gNGC.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf432"
+  },
+  "titulo": "Counterpart",
+  "tipo": "serie",
+  "director": "Justin Marks",
+  "anio": 2017,
+  "genero": "Thriller / Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "ISTJ"
+  ],
+  "descripcion": "Análisis de espionaje en realidades paralelas y divergencias estratégicas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf433"
+  },
+  "titulo": "Hannibal",
+  "tipo": "serie",
+  "director": "Bryan Fuller",
+  "anio": 2013,
+  "genero": "Crimen / Terror psicológico",
+  "mbti": [
+    "INTJ",
+    "ENTJ"
+  ],
+  "descripcion": "Juego intelectual sofisticado entre un psiquiatra brillante y un perfilador criminal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf434"
+  },
+  "titulo": "Battlestar Galactica",
+  "tipo": "serie",
+  "director": "Ronald D. Moore",
+  "anio": 2004,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INTJ",
+    "ENTJ"
+  ],
+  "descripcion": "Supervivencia de la humanidad basada en estrategia militar y liderazgo bajo presión.",
+  "imagen": "https://image.tmdb.org/t/p/w500/vQuR5L1TcKPmfZu7NpiZAcGGcxJ.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf435"
+  },
+  "titulo": "Dirk Gently's Holistic Detective Agency",
+  "tipo": "serie",
+  "director": "Max Landis",
+  "anio": 2016,
+  "genero": "Comedia / Ciencia Ficción",
+  "mbti": [
+    "ENTP",
+    "INTP"
+  ],
+  "descripcion": "Resolución de casos mediante la interconexión caótica de eventos aparentemente aleatorios.",
+  "imagen": "https://image.tmdb.org/t/p/w500/q8oMpXPEAUJJ0KztsRs5K51T2lo.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf436"
+  },
+  "titulo": "The IT Crowd",
+  "tipo": "serie",
+  "director": "Graham Linehan",
+  "anio": 2006,
+  "genero": "Comedia",
+  "mbti": [
+    "INTP",
+    "ISTP"
+  ],
+  "descripcion": "Vida técnica y cotidiana de un departamento de soporte IT con humor sarcástico.",
+  "imagen": "https://image.tmdb.org/t/p/w500/qtxL0ZLAZN1nd0kOpcu8V32bsU4.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf437"
+  },
+  "titulo": "Silicon Valley",
+  "tipo": "serie",
+  "director": "Mike Judge",
+  "anio": 2014,
+  "genero": "Comedia",
+  "mbti": [
+    "INTP",
+    "ENTP"
+  ],
+  "descripcion": "Análisis de algoritmos y viabilidad económica en el ecosistema de startups.",
+  "imagen": "https://image.tmdb.org/t/p/w500/8BNZrHzWEUgMdJJNUdrwryxeQW1.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf438"
+  },
+  "titulo": "Sense8",
+  "tipo": "serie",
+  "director": "The Wachowskis",
+  "anio": 2015,
+  "genero": "Ciencia Ficción / Drama",
+  "mbti": [
+    "ENTP",
+    "INFJ"
+  ],
+  "descripcion": "Conexión cognitiva profunda entre individuos que comparten pensamiento y habilidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf439"
+  },
+  "titulo": "The Witcher",
+  "tipo": "serie",
+  "director": "Lauren Schmidt Hissrich",
+  "anio": 2019,
+  "genero": "Fantasía / Acción",
+  "mbti": [
+    "INTJ",
+    "ISTP"
+  ],
+  "descripcion": "Análisis táctico de amenazas sobrenaturales en un mundo político complejo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/9CjS0twpknyUhjmEeuXHsu6CQAs.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf440"
+  },
+  "titulo": "Legion",
+  "tipo": "serie",
+  "director": "Noah Hawley",
+  "anio": 2017,
+  "genero": "Ciencia Ficción / Psicológico",
+  "mbti": [
+    "INTP",
+    "ENTP"
+  ],
+  "descripcion": "Exploración de la realidad a través de una mente superdotada y fragmentada.",
+  "imagen": "https://image.tmdb.org/t/p/w500/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf501"
+  },
+  "titulo": "Breaking Bad",
+  "tipo": "serie",
+  "director": "Vince Gilligan",
+  "anio": 2008,
+  "genero": "Crimen / Drama",
+  "mbti": [
+    "ISTP",
+    "ESTP"
+  ],
+  "descripcion": "La improvisación táctica y la acción pragmática ante situaciones de riesgo extremo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf502"
+  },
+  "titulo": "Sons of Anarchy",
+  "tipo": "serie",
+  "director": "Kurt Sutter",
+  "anio": 2008,
+  "genero": "Crimen / Drama",
+  "mbti": [
+    "ESTP",
+    "ISFP"
+  ],
+  "descripcion": "Vivir al límite, la lealtad al grupo y la libertad sobre dos ruedas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/sG8FyklMtpjDZv0CB2smeTKyYtf.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf503"
+  },
+  "titulo": "The Mandalorian",
+  "tipo": "serie",
+  "director": "Jon Favreau",
+  "anio": 2019,
+  "genero": "Aventura / Sci-Fi",
+  "mbti": [
+    "ISTP"
+  ],
+  "descripcion": "Resolución de problemas prácticos en el terreno y enfoque en la eficiencia física.",
+  "imagen": "https://image.tmdb.org/t/p/w500/iLg3DzrwCDsHNovNaWx5JnQAsiV.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf504"
+  },
+  "titulo": "Top Gear",
+  "tipo": "serie",
+  "director": "BBC Studios",
+  "anio": 2002,
+  "genero": "Automovilismo / Reality",
+  "mbti": [
+    "ESTP",
+    "ESFP"
+  ],
+  "descripcion": "La emoción sensorial de la velocidad, la ingeniería y el humor espontáneo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf505"
+  },
+  "titulo": "Vikings",
+  "tipo": "serie",
+  "director": "Michael Hirst",
+  "anio": 2013,
+  "genero": "Acción / Histórico",
+  "mbti": [
+    "ESTP",
+    "ISTP"
+  ],
+  "descripcion": "Exploración, combate y búsqueda de nuevas experiencias a través de la conquista.",
+  "imagen": "https://image.tmdb.org/t/p/w500/m8iQ4ZObxGbSu0cs8xTOVTeZ9QX.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf506"
+  },
+  "titulo": "Euphoria",
+  "tipo": "serie",
+  "director": "Sam Levinson",
+  "anio": 2019,
+  "genero": "Drama / Adolescente",
+  "mbti": [
+    "ISFP",
+    "ESFP"
+  ],
+  "descripcion": "La intensidad emocional, la estética visual y la exploración sensorial del presente.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf507"
+  },
+  "titulo": "Prison Break",
+  "tipo": "serie",
+  "director": "Paul Scheuring",
+  "anio": 2005,
+  "genero": "Acción / Drama",
+  "mbti": [
+    "ISTP",
+    "ESTP"
+  ],
+  "descripcion": "Estrategia de escape basada en el aprovechamiento de recursos físicos y entorno.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oqy7vnLWIFwoKBimCQfJHoVRYTS.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf508"
+  },
+  "titulo": "Peaky Blinders",
+  "tipo": "serie",
+  "director": "Steven Knight",
+  "anio": 2013,
+  "genero": "Crimen / Drama",
+  "mbti": [
+    "ESTP",
+    "ISTP"
+  ],
+  "descripcion": "Acción directa, astucia callejera y estilo personal como parte del éxito.",
+  "imagen": "https://image.tmdb.org/t/p/w500/zUqNyXRfYkFAFXsqJJjKMZpjYus.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf509"
+  },
+  "titulo": "Money Heist",
+  "tipo": "serie",
+  "director": "Álex Pina",
+  "anio": 2017,
+  "genero": "Crimen / Thriller",
+  "mbti": [
+    "ESTP",
+    "ESFP"
+  ],
+  "descripcion": "Adrenalina pura, planificación flexible y respuesta rápida ante imprevistos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/z01Dc0Ly2GmCpLe6Scx4d3dPP1S.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf510"
+  },
+  "titulo": "The Punisher",
+  "tipo": "serie",
+  "director": "Steve Lightfoot",
+  "anio": 2017,
+  "genero": "Acción / Crimen",
+  "mbti": [
+    "ISTP"
+  ],
+  "descripcion": "Enfoque pragmático, solitario y centrado en la ejecución física de un objetivo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/8OdIbo68mFE4w6jXA20aL8ocPsE.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf511"
+  },
+  "titulo": "Narcos",
+  "tipo": "serie",
+  "director": "Chris Brancato, Carlo Bernard",
+  "anio": 2015,
+  "genero": "Crimen / Biografía",
+  "mbti": [
+    "ESTP",
+    "ISTP"
+  ],
+  "descripcion": "Supervivencia, riesgo constante y adaptabilidad al terreno hostil.",
+  "imagen": "https://image.tmdb.org/t/p/w500/hbe0lyWfTu7Rm9bC9HsjTNVKOBU.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf512"
+  },
+  "titulo": "Outer Banks",
+  "tipo": "serie",
+  "director": "Jonas Pate, Josh Pate",
+  "anio": 2020,
+  "genero": "Aventura / Misterio",
+  "mbti": [
+    "ESFP",
+    "ESTP"
+  ],
+  "descripcion": "Búsqueda de aventura inmediata, lealtad entre amigos y vida al aire libre.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oNIyXnqSwkjVv2SmkgzTtaCsVBV.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf513"
+  },
+  "titulo": "Daredevil",
+  "tipo": "serie",
+  "director": "Drew Goddard",
+  "anio": 2015,
+  "genero": "Acción / Drama",
+  "mbti": [
+    "ISTP",
+    "ISFP"
+  ],
+  "descripcion": "Maestría en combate físico y vivencia sensorial intensificada.",
+  "imagen": "https://image.tmdb.org/t/p/w500/zdjmPOMNlDpmqXLgNaGBT7jAiFj.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf514"
+  },
+  "titulo": "Jack Reacher",
+  "tipo": "serie",
+  "director": "Nick Santora",
+  "anio": 2022,
+  "genero": "Acción / Thriller",
+  "mbti": [
+    "ISTP"
+  ],
+  "descripcion": "Resolución de conflictos mediante el uso de lógica táctica y fuerza física.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf515"
+  },
+  "titulo": "Cobra Kai",
+  "tipo": "serie",
+  "director": "Josh Heald, Jon Hurwitz",
+  "anio": 2018,
+  "genero": "Acción / Comedia",
+  "mbti": [
+    "ESTP",
+    "ESFP"
+  ],
+  "descripcion": "Acción competitiva, superación personal y vivir el momento presente a través del arte marcial.",
+  "imagen": "https://image.tmdb.org/t/p/w500/imfqLcv6oHNn6bDdEUUUlxy0Ch9.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf516"
+  },
+  "titulo": "The Boys",
+  "tipo": "serie",
+  "director": "Eric Kripke",
+  "anio": 2019,
+  "genero": "Acción / Comedia negra",
+  "mbti": [
+    "ESTP",
+    "ISTP"
+  ],
+  "descripcion": "Acción frenética, pragmatismo brutal y confrontación directa contra sistemas corruptos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/lTb6v3ZRanWLWoOpofXrBHNo9s1.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf517"
+  },
+  "titulo": "Formula 1: Drive to Survive",
+  "tipo": "serie",
+  "director": "James Gay-Rees",
+  "anio": 2019,
+  "genero": "Documental / Deporte",
+  "mbti": [
+    "ESTP",
+    "ESFP"
+  ],
+  "descripcion": "La máxima expresión de velocidad, riesgo y la intensidad del momento presente.",
+  "imagen": "https://image.tmdb.org/t/p/w500/u9figNeDGXMvtboGFJQyvMXxYyS.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf518"
+  },
+  "titulo": "Hannibal",
+  "tipo": "serie",
+  "director": "Bryan Fuller",
+  "anio": 2013,
+  "genero": "Crimen / Psicológico",
+  "mbti": [
+    "ISFP"
+  ],
+  "descripcion": "Esteticismo refinado, atención a la experiencia sensorial y manipulación emocional.",
+  "imagen": "https://image.tmdb.org/t/p/w500/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf519"
+  },
+  "titulo": "Spartacus",
+  "tipo": "serie",
+  "director": "Steven S. DeKnight",
+  "anio": 2010,
+  "genero": "Acción / Histórico",
+  "mbti": [
+    "ESTP",
+    "ISFP"
+  ],
+  "descripcion": "Combate visceral, libertad física y la lucha por la supervivencia en la arena.",
+  "imagen": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf520"
+  },
+  "titulo": "Brooklyn Nine-Nine",
+  "tipo": "serie",
+  "director": "Dan Goor, Michael Schur",
+  "anio": 2013,
+  "genero": "Comedia / Crimen",
+  "mbti": [
+    "ESFP",
+    "ESTP"
+  ],
+  "descripcion": "Dinámica de grupo basada en la acción policial, el humor y la espontaneidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/A3SymGlOHefSKbz1bCOz56moupS.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf521"
+  },
+  "titulo": "Archer",
+  "tipo": "serie",
+  "director": "Adam Reed",
+  "anio": 2009,
+  "genero": "Animación / Comedia",
+  "mbti": [
+    "ESTP"
+  ],
+  "descripcion": "Vida de espionaje hedonista donde el impulso y la acción rápida predominan.",
+  "imagen": "https://image.tmdb.org/t/p/w500/vhnrkTGYPqcB63ALcSJm0WoaKHT.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf522"
+  },
+  "titulo": "Attack on Titan",
+  "tipo": "serie",
+  "director": "Tetsurō Araki",
+  "anio": 2013,
+  "genero": "Anime / Acción",
+  "mbti": [
+    "ISTP",
+    "ESTP"
+  ],
+  "descripcion": "Supervivencia física extrema, combate aéreo y toma de decisiones tácticas instantáneas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/yFPQ4JhhirnCVe2UIKGMYX7TOGZ.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf523"
+  },
+  "titulo": "Shameless",
+  "tipo": "serie",
+  "director": "Paul Abbott",
+  "anio": 2011,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ESTP",
+    "ESFP"
+  ],
+  "descripcion": "Adaptabilidad constante a entornos caóticos y búsqueda de placer inmediato.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf524"
+  },
+  "titulo": "Yellowstone",
+  "tipo": "serie",
+  "director": "Taylor Sheridan",
+  "anio": 2018,
+  "genero": "Western / Drama",
+  "mbti": [
+    "ISTP",
+    "ESTP"
+  ],
+  "descripcion": "Defensa pragmática del territorio y conexión física con el entorno natural.",
+  "imagen": "https://image.tmdb.org/t/p/w500/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf525"
+  },
+  "titulo": "It's Always Sunny in Philadelphia",
+  "tipo": "serie",
+  "director": "Rob McElhenney",
+  "anio": 2005,
+  "genero": "Comedia",
+  "mbti": [
+    "ESTP",
+    "ESFP"
+  ],
+  "descripcion": "Caos total, impulsividad sin filtro y situaciones altamente absurdas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/wmV5zoDiT7tkojbyEW9DVpiq5du.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf526"
+  },
+  "titulo": "Alice in Borderland",
+  "tipo": "serie",
+  "director": "Shinsuke Sato",
+  "anio": 2020,
+  "genero": "Sci-Fi / Acción",
+  "mbti": [
+    "ISTP",
+    "ESTP"
+  ],
+  "descripcion": "Juegos de supervivencia física y mental donde la rapidez de reacción es clave.",
+  "imagen": "https://image.tmdb.org/t/p/w500/xcOnCOpwe86Deau7P1VQNe0X6cg.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf527"
+  },
+  "titulo": "Entourage",
+  "tipo": "serie",
+  "director": "Doug Ellin",
+  "anio": 2004,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ESFP",
+    "ESTP"
+  ],
+  "descripcion": "El estilo de vida de Hollywood, disfrutar el éxito y la lealtad grupal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/wA7OLgBCyPiqi3nNkuTUcNbJtRo.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf528"
+  },
+  "titulo": "Gravity Falls",
+  "tipo": "serie",
+  "director": "Alex Hirsch",
+  "anio": 2012,
+  "genero": "Animación / Aventura",
+  "mbti": [
+    "ESTP",
+    "ESFP"
+  ],
+  "descripcion": "Exploración de lo desconocido y aventura espontánea en un verano inolvidable.",
+  "imagen": "https://image.tmdb.org/t/p/w500/gX9NP6pWG47oAkq723TfxtkG4Pr.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf529"
+  },
+  "titulo": "John Wick: The Continental",
+  "tipo": "serie",
+  "director": "Greg Coolidge",
+  "anio": 2023,
+  "genero": "Acción / Crimen",
+  "mbti": [
+    "ISTP"
+  ],
+  "descripcion": "Estilo de combate técnico, precisión en el entorno y pragmatismo asesino.",
+  "imagen": "https://image.tmdb.org/t/p/w500/sDasxXov8BvqWCSA0BJvvMmQNdr.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf530"
+  },
+  "titulo": "Jackass",
+  "tipo": "serie",
+  "director": "Jeff Tremaine",
+  "anio": 2000,
+  "genero": "Reality / Comedia",
+  "mbti": [
+    "ESFP",
+    "ESTP"
+  ],
+  "descripcion": "La máxima expresión de vivir para el riesgo físico y la emoción del momento.",
+  "imagen": "https://image.tmdb.org/t/p/w500/q8O8ElquAya9SugLNH6N5TWNE4h.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf531"
+  },
+  "titulo": "Fast & Furious: Spy Racers",
+  "tipo": "serie",
+  "director": "Tim Hedrick, Bret Haaland",
+  "anio": 2019,
+  "genero": "Acción / Automovilismo",
+  "mbti": [
+    "ESTP",
+    "ESFP"
+  ],
+  "descripcion": "Velocidad extrema, misiones encubiertas y riesgo constante en carreras de alto impacto.",
+  "imagen": "https://image.tmdb.org/t/p/w500/uf0JXBxRRzp3r3jReOKrz9llYv8.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf532"
+  },
+  "titulo": "Into the Badlands",
+  "tipo": "serie",
+  "director": "Alfred Gough, Miles Millar",
+  "anio": 2015,
+  "genero": "Artes Marciales / Acción",
+  "mbti": [
+    "ISTP",
+    "ESTP"
+  ],
+  "descripcion": "Combate coreografiado de alto nivel y supervivencia táctica en un futuro post-apocalíptico.",
+  "imagen": "https://image.tmdb.org/t/p/w500/jtceMKMxHSriLFUGAUfqHsW7uCo.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf533"
+  },
+  "titulo": "Lucifer",
+  "tipo": "serie",
+  "director": "Tom Kapinos",
+  "anio": 2016,
+  "genero": "Fantasía / Crimen",
+  "mbti": [
+    "ESTP",
+    "ESFP"
+  ],
+  "descripcion": "Hedonismo, encanto personal y resolución de crímenes impulsada por la experiencia sensorial.",
+  "imagen": "https://image.tmdb.org/t/p/w500/wQh2ytX0f8IfC3b2mKpDGOpGTXS.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf534"
+  },
+  "titulo": "The Witcher",
+  "tipo": "serie",
+  "director": "Lauren Schmidt Hissrich",
+  "anio": 2019,
+  "genero": "Fantasía / Acción",
+  "mbti": [
+    "ISTP",
+    "ISFP"
+  ],
+  "descripcion": "Pragmatismo solitario, combate físico preciso y vivencia de un mundo oscuro y visceral.",
+  "imagen": "https://image.tmdb.org/t/p/w500/9CjS0twpknyUhjmEeuXHsu6CQAs.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf535"
+  },
+  "titulo": "Blue Mountain State",
+  "tipo": "serie",
+  "director": "Chris Romano, Eric Falconer",
+  "anio": 2010,
+  "genero": "Comedia",
+  "mbti": [
+    "ESFP",
+    "ESTP"
+  ],
+  "descripcion": "Exceso, fiesta, deportes universitarios y búsqueda constante de placer inmediato.",
+  "imagen": "https://image.tmdb.org/t/p/w500/lPAOv8kE2AuD4jliyJ6ziKQIAGi.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf536"
+  },
+  "titulo": "Warrior",
+  "tipo": "serie",
+  "director": "Jonathan Tropper",
+  "anio": 2019,
+  "genero": "Acción / Drama",
+  "mbti": [
+    "ISTP",
+    "ESTP"
+  ],
+  "descripcion": "Lucha física por el territorio y destreza táctica en un entorno hostil.",
+  "imagen": "https://image.tmdb.org/t/p/w500/mzzPjfwOYMYjkWeqYPEHd41WDSd.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf537"
+  },
+  "titulo": "Teen Wolf",
+  "tipo": "serie",
+  "director": "Jeff Davis",
+  "anio": 2011,
+  "genero": "Sobrenatural / Acción",
+  "mbti": [
+    "ESFP",
+    "ESTP"
+  ],
+  "descripcion": "Adrenalina sobrenatural, lealtad de manada y situaciones de acción intensa.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ycj1ReH56364LiubRLLS4mY7hJw.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf538"
+  },
+  "titulo": "Deadly Class",
+  "tipo": "serie",
+  "director": "Rick Remender",
+  "anio": 2019,
+  "genero": "Acción / Drama",
+  "mbti": [
+    "ISTP",
+    "ISFP"
+  ],
+  "descripcion": "Formación técnica de asesinos en un entorno lleno de tensión y peligro.",
+  "imagen": "https://image.tmdb.org/t/p/w500/u2GSiPazSXpyNQz0yymOUCUm944.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf539"
+  },
+  "titulo": "Friday Night Lights",
+  "tipo": "serie",
+  "director": "Peter Berg",
+  "anio": 2006,
+  "genero": "Deporte / Drama",
+  "mbti": [
+    "ESFP",
+    "ESTP"
+  ],
+  "descripcion": "Vivir intensamente el presente a través de la pasión deportiva y la comunidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/bLnPKAysnTsf5DnMGffZMJS1MH7.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf540"
+  },
+  "titulo": "The Last Kingdom",
+  "tipo": "serie",
+  "director": "Stephen Butchard",
+  "anio": 2015,
+  "genero": "Acción / Histórico",
+  "mbti": [
+    "ESTP",
+    "ISTP"
+  ],
+  "descripcion": "Acción directa en batalla, toma de riesgos y lealtad pragmática.",
+  "imagen": "https://image.tmdb.org/t/p/w500/pnM3U7NMJeFNpzhpYP10zBdIuPM.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf601"
+  },
+  "titulo": "Neon Genesis Evangelion",
+  "tipo": "serie",
+  "director": "Hideaki Anno",
+  "anio": 1995,
+  "genero": "Anime / Psicológico",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "Introspección profunda sobre la condición humana y la soledad existencial.",
+  "imagen": "https://image.tmdb.org/t/p/w500/8t5BmqgaYQQckYXF4Q9M1cVnqXt.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf602"
+  },
+  "titulo": "The Handmaid's Tale",
+  "tipo": "serie",
+  "director": "Bruce Miller",
+  "anio": 2017,
+  "genero": "Drama / Distopía",
+  "mbti": [
+    "INFJ",
+    "ENFP"
+  ],
+  "descripcion": "Resiliencia emocional, búsqueda de libertad y crítica social profunda.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kAHyUzUkFv8xgJARoWEdiz9LgeY.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf603"
+  },
+  "titulo": "Sense8",
+  "tipo": "serie",
+  "director": "The Wachowskis",
+  "anio": 2015,
+  "genero": "Ciencia Ficción / Drama",
+  "mbti": [
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "Conexión empática trascendental y diversidad de experiencias humanas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf604"
+  },
+  "titulo": "BoJack Horseman",
+  "tipo": "serie",
+  "director": "Raphael Bob-Waksberg",
+  "anio": 2014,
+  "genero": "Animación / Tragicomedia",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "Análisis crudo de la salud mental, el arrepentimiento y la búsqueda de redención.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf605"
+  },
+  "titulo": "The Leftovers",
+  "tipo": "serie",
+  "director": "Damon Lindelof",
+  "anio": 2014,
+  "genero": "Drama / Misterio",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "Duelo, fe y la búsqueda de sentido ante lo inexplicable.",
+  "imagen": "https://image.tmdb.org/t/p/w500/NKJdryIFHr245Umq6gXsf7oULW.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf606"
+  },
+  "titulo": "Anne with an E",
+  "tipo": "serie",
+  "director": "Moira Walley-Beckett",
+  "anio": 2017,
+  "genero": "Drama / Familiar",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "Imaginación desbordante, sensibilidad ante la injusticia y pertenencia.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf607"
+  },
+  "titulo": "Ted Lasso",
+  "tipo": "serie",
+  "director": "Bill Lawrence",
+  "anio": 2020,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ENFJ",
+    "ENFP"
+  ],
+  "descripcion": "Liderazgo basado en la empatía, el optimismo y la transformación personal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf608"
+  },
+  "titulo": "Doctor Who",
+  "tipo": "serie",
+  "director": "Sydney Newman",
+  "anio": 1963,
+  "genero": "Ciencia Ficción / Aventura",
+  "mbti": [
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "Curiosidad ilimitada, compasión y protección de la vida en el universo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf609"
+  },
+  "titulo": "Fleabag",
+  "tipo": "serie",
+  "director": "Phoebe Waller-Bridge",
+  "anio": 2016,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "Honestidad brutal sobre el dolor, la soledad y la complejidad de las relaciones.",
+  "imagen": "https://image.tmdb.org/t/p/w500/27vEYsRKa3eAniwmoccOoluEXQ1.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf610"
+  },
+  "titulo": "Avatar: The Last Airbender",
+  "tipo": "serie",
+  "director": "Michael Dante DiMartino",
+  "anio": 2005,
+  "genero": "Animación / Aventura",
+  "mbti": [
+    "ENFJ",
+    "INFP"
+  ],
+  "descripcion": "El viaje del héroe centrado en la espiritualidad, el balance y la paz.",
+  "imagen": "https://image.tmdb.org/t/p/w500/ucNtkZfpZ6KgxqPo039nN4LAyFR.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf611"
+  },
+  "titulo": "This Is Us",
+  "tipo": "serie",
+  "director": "Dan Fogelman",
+  "anio": 2016,
+  "genero": "Drama",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "Exploración de lazos familiares, trauma generacional y conexión emocional.",
+  "imagen": "https://image.tmdb.org/t/p/w500/tZDcEfue6fDUcRJ6WxI1hhKPZrH.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf612"
+  },
+  "titulo": "Twin Peaks",
+  "tipo": "serie",
+  "director": "David Lynch, Mark Frost",
+  "anio": 1990,
+  "genero": "Misterio / Surrealismo",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "Exploración del subconsciente, simbolismo y la dualidad del bien y mal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf613"
+  },
+  "titulo": "The OA",
+  "tipo": "serie",
+  "director": "Brit Marling, Zal Batmanglij",
+  "anio": 2016,
+  "genero": "Ciencia Ficción / Misterio",
+  "mbti": [
+    "INFJ",
+    "ENFP"
+  ],
+  "descripcion": "Misticismo, fe y la unión de comunidades a través de historias compartidas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/rueY4slMeKtTGitm0raFUJvgaa5.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf614"
+  },
+  "titulo": "Normal People",
+  "tipo": "serie",
+  "director": "Lenny Abrahamson",
+  "anio": 2020,
+  "genero": "Drama / Romance",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "Intimidad, vulnerabilidad y la evolución del vínculo entre dos almas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/8nol7cxQHqLRMsclMm2HbLucZ2X.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf615"
+  },
+  "titulo": "Westworld",
+  "tipo": "serie",
+  "director": "Jonathan Nolan, Lisa Joy",
+  "anio": 2016,
+  "genero": "Ciencia Ficción",
+  "mbti": [
+    "INFJ",
+    "INTJ"
+  ],
+  "descripcion": "Preguntas filosóficas sobre la naturaleza del alma y la conciencia libre.",
+  "imagen": "https://image.tmdb.org/t/p/w500/vRAFOKQ2JxOagiJZaGQxmqTY1yl.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf616"
+  },
+  "titulo": "Dark",
+  "tipo": "serie",
+  "director": "Baran bo Odar",
+  "anio": 2017,
+  "genero": "Ciencia Ficción / Misterio",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "Determinismo existencial, el peso del tiempo y la interconexión entre destinos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/hRP7N2uI0pokxnkcMFONoOZnxbv.jpg",
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf617"
+  },
+  "titulo": "Mr. Robot",
+  "tipo": "serie",
+  "director": "Sam Esmail",
+  "anio": 2015,
+  "genero": "Drama / Thriller psicológico",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "Crítica sistémica a través de la lente de la alienación y la fragmentación mental.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf618"
+  },
+  "titulo": "The Midnight Gospel",
+  "tipo": "serie",
+  "director": "Pendleton Ward, Duncan Trussell",
+  "anio": 2020,
+  "genero": "Animación / Surrealista",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "Conversaciones filosóficas profundas sobre la vida, la muerte y la iluminación.",
+  "imagen": "https://image.tmdb.org/t/p/w500/me3kxfiFRkdto6SmDQv0nczjfmP.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf619"
+  },
+  "titulo": "Six Feet Under",
+  "tipo": "serie",
+  "director": "Alan Ball",
+  "anio": 2001,
+  "genero": "Drama",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "Exploración de la mortalidad y el sentido de la vida en la cotidianidad humana.",
+  "imagen": "https://image.tmdb.org/t/p/w500/Al4RjjnnTNyLEn5idIxl2zfqYV5.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf620"
+  },
+  "titulo": "Community",
+  "tipo": "serie",
+  "director": "Dan Harmon",
+  "anio": 2009,
+  "genero": "Comedia",
+  "mbti": [
+    "ENFP",
+    "ENFJ"
+  ],
+  "descripcion": "Comunidad diversa, metarreferencias y la búsqueda de pertenencia personal.",
+  "imagen": "https://image.tmdb.org/t/p/w500/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf621"
+  },
+  "titulo": "Made for Love",
+  "tipo": "serie",
+  "director": "Christina Lee",
+  "anio": 2021,
+  "genero": "Comedia negra / Sci-Fi",
+  "mbti": [
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "La invasión de la privacidad y el deseo humano de autonomía frente a la tecnología.",
+  "imagen": "https://image.tmdb.org/t/p/w500/4FsrPwd2umUjl2T5BExVPTlI85u.jpg",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf622"
+  },
+  "titulo": "Hannibal",
+  "tipo": "serie",
+  "director": "Bryan Fuller",
+  "anio": 2013,
+  "genero": "Crimen / Psicológico",
+  "mbti": [
+    "INFJ"
+  ],
+  "descripcion": "Obsesión empática profunda entre dos mentes que se reflejan mutuamente.",
+  "imagen": "https://image.tmdb.org/t/p/w500/pbV2eLnKSIm1epSZt473UYfqaeZ.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf623"
+  },
+  "titulo": "The Good Place",
+  "tipo": "serie",
+  "director": "Michael Schur",
+  "anio": 2016,
+  "genero": "Comedia / Fantasía",
+  "mbti": [
+    "ENFP",
+    "ENFJ"
+  ],
+  "descripcion": "Ética, desarrollo personal y qué significa ser una buena persona en el más allá.",
+  "imagen": "https://image.tmdb.org/t/p/w500/qIhsuhoIYR5yTnDta0IL4senbeN.jpg",
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf624"
+  },
+  "titulo": "Euphoria",
+  "tipo": "serie",
+  "director": "Sam Levinson",
+  "anio": 2019,
+  "genero": "Drama",
+  "mbti": [
+    "INFP"
+  ],
+  "descripcion": "Representación visceral de la vulnerabilidad emocional y el trauma adolescente.",
+  "imagen": "https://image.tmdb.org/t/p/w500/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf625"
+  },
+  "titulo": "Lost",
+  "tipo": "serie",
+  "director": "J.J. Abrams, Damon Lindelof",
+  "anio": 2004,
+  "genero": "Drama / Misterio",
+  "mbti": [
+    "ENFP",
+    "INFJ"
+  ],
+  "descripcion": "La lucha por el propósito y el destino tras un evento disruptivo que une a extraños.",
+  "imagen": "https://image.tmdb.org/t/p/w500/47RazdqbtMmDxKHskObbHkc2D3o.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf626"
+  },
+  "titulo": "Transparent",
+  "tipo": "serie",
+  "director": "Jill Soloway",
+  "anio": 2014,
+  "genero": "Drama / Comedia",
+  "mbti": [
+    "ENFJ",
+    "INFJ"
+  ],
+  "descripcion": "Descubrimiento de la identidad personal y reconfiguración de la dinámica familiar.",
+  "imagen": "https://image.tmdb.org/t/p/w500/mrLzehvZpm5osA4MlMR41gYayWZ.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf627"
+  },
+  "titulo": "Station Eleven",
+  "tipo": "serie",
+  "director": "Patrick Somerville",
+  "anio": 2021,
+  "genero": "Drama / Sci-Fi",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "El papel del arte y la memoria para mantener la humanidad después del colapso.",
+  "imagen": "https://image.tmdb.org/t/p/w500/552rtld6iGDbYQtqZG9mLKNY1Az.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf628"
+  },
+  "titulo": "The Crown",
+  "tipo": "serie",
+  "director": "Peter Morgan",
+  "anio": 2016,
+  "genero": "Drama / Histórico",
+  "mbti": [
+    "INFJ",
+    "ENFJ"
+  ],
+  "descripcion": "El conflicto entre el deber público, la identidad privada y la carga de la tradición.",
+  "imagen": "https://image.tmdb.org/t/p/w500/1ZMVKJoWK5KfxaQA8BwpfOEYKKy.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf629"
+  },
+  "titulo": "Love Death + Robots",
+  "tipo": "serie",
+  "director": "Tim Miller",
+  "anio": 2019,
+  "genero": "Animación / Sci-Fi",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "Antología que explora la condición humana a través de escenarios especulativos.",
+  "imagen": "https://image.tmdb.org/t/p/w500/vL5BQvXH96cJzmNK5n7QliQxy90.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf630"
+  },
+  "titulo": "Undone",
+  "tipo": "serie",
+  "director": "Raphael Bob-Waksberg",
+  "anio": 2019,
+  "genero": "Animación / Psicológico",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "La realidad subjetiva, la percepción del tiempo y el trauma familiar explorado con surrealismo.",
+  "imagen": "https://image.tmdb.org/t/p/w500/s1TZYhSTk6Bv7qqGc0233P3KQrA.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf631"
+  },
+  "titulo": "Twin Peaks: The Return",
+  "tipo": "serie",
+  "director": "David Lynch",
+  "anio": 2017,
+  "genero": "Misterio / Surrealismo",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "Una odisea onírica y metafísica sobre la lucha eterna entre la luz y la oscuridad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf632"
+  },
+  "titulo": "Sense8",
+  "tipo": "serie",
+  "director": "The Wachowskis",
+  "anio": 2015,
+  "genero": "Ciencia Ficción / Drama",
+  "mbti": [
+    "ENFP",
+    "ENFJ"
+  ],
+  "descripcion": "Celebración de la conexión humana profunda y la trascendencia de las barreras individuales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf633"
+  },
+  "titulo": "Mr. Corman",
+  "tipo": "serie",
+  "director": "Joseph Gordon-Levitt",
+  "anio": 2021,
+  "genero": "Drama / Comedia",
+  "mbti": [
+    "INFP",
+    "INFJ"
+  ],
+  "descripcion": "Exploración introspectiva sobre el arrepentimiento, los sueños no cumplidos y la ansiedad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/iF1Pcvb65NscURXjjEQEDxvYysM.jpg",
+  "rating": 4.1
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf634"
+  },
+  "titulo": "Modern Love",
+  "tipo": "serie",
+  "director": "John Carney",
+  "anio": 2019,
+  "genero": "Romance / Drama",
+  "mbti": [
+    "ENFP",
+    "ENFJ"
+  ],
+  "descripcion": "Antología sobre las diversas formas de amor, conexión y vulnerabilidad humana.",
+  "imagen": "https://image.tmdb.org/t/p/w500/cP9CJ9nvPT3cnnBSlGFgwq7odIR.jpg",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf635"
+  },
+  "titulo": "The Path",
+  "tipo": "serie",
+  "director": "Jessica Goldberg",
+  "anio": 2016,
+  "genero": "Drama",
+  "mbti": [
+    "INFJ",
+    "ENFJ"
+  ],
+  "descripcion": "Estudio sobre la fe, la lealtad grupal y la crisis de identidad en movimientos espirituales.",
+  "imagen": "https://image.tmdb.org/t/p/w500/se3MZ1OVfIrZqFJkpm3kVnpkKpO.jpg",
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf636"
+  },
+  "titulo": "Atypical",
+  "tipo": "serie",
+  "director": "Robia Rashid",
+  "anio": 2017,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "INFP",
+    "ENFP"
+  ],
+  "descripcion": "El camino hacia la independencia y la búsqueda de aceptación dentro del espectro autista.",
+  "imagen": "https://image.tmdb.org/t/p/w500/w5rPpdoWk3MM8ZId93FOKFzT4mm.jpg",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf637"
+  },
+  "titulo": "Master of None",
+  "tipo": "serie",
+  "director": "Aziz Ansari, Alan Yang",
+  "anio": 2015,
+  "genero": "Comedia / Drama",
+  "mbti": [
+    "ENFP",
+    "INFP"
+  ],
+  "descripcion": "Observación agridulce de las relaciones modernas, la carrera profesional y la autorrealización.",
+  "imagen": "https://image.tmdb.org/t/p/w500/AcJM86PhgHAfbrF4dMKBaqO3cHV.jpg",
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf638"
+  },
+  "titulo": "Manifest",
+  "tipo": "serie",
+  "director": "Jeff Rake",
+  "anio": 2018,
+  "genero": "Misterio / Drama",
+  "mbti": [
+    "INFJ",
+    "ENFJ"
+  ],
+  "descripcion": "La búsqueda de propósito y verdad tras un evento inexplicable que cambia vidas.",
+  "imagen": "https://image.tmdb.org/t/p/w500/oRM98LENegR9LfPpLH5BaWH1tjz.jpg",
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf639"
+  },
+  "titulo": "Big Little Lies",
+  "tipo": "serie",
+  "director": "Jean-Marc Vallée",
+  "anio": 2017,
+  "genero": "Drama / Misterio",
+  "mbti": [
+    "INFJ",
+    "ENFP"
+  ],
+  "descripcion": "La complejidad de las apariencias, los secretos enterrados y la sororidad.",
+  "imagen": "https://image.tmdb.org/t/p/w500/b4HNJOc2N6SGyEhf2RagdpAKBK6.jpg",
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "6a249ff35f7382ee7f2bf640"
+  },
+  "titulo": "The Bear",
+  "tipo": "serie",
+  "director": "Christopher Storer",
+  "anio": 2022,
+  "genero": "Drama",
+  "mbti": [
+    "INFJ",
+    "INFP"
+  ],
+  "descripcion": "La búsqueda de la perfección, el trauma no resuelto y la curación a través del oficio.",
+  "imagen": "https://image.tmdb.org/t/p/w500/5TZnk9ryzfcNlsCOghURfZsBong.jpg",
+  "rating": 4.8
+}]

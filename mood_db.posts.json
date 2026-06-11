@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "6a20e97702b16800dd1e680c"
+  },
+  "correo": "nao2mi5mar0len5@gmail.com",
+  "nombre": "Naomi",
+  "texto": "holaaa",
+  "likes": 2,
+  "likes_por": [
+    "nao2mi5mar0len5@gmail.com",
+    "nao@gmail.com"
+  ],
+  "comentarios": [
+    {
+      "nombre": "Naomi",
+      "texto": "que quieres bot",
+      "fecha": "04/06/2026 02:57"
+    },
+    {
+      "nombre": "xd",
+      "texto": "xd",
+      "fecha": "04/06/2026 02:57"
+    },
+    {
+      "nombre": "xd",
+      "texto": "holaaa",
+      "fecha": "04/06/2026 02:58"
+    }
+  ],
+  "fecha": {
+    "$date": "2026-06-04T02:56:55.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e9e802b16800dd1e680e"
+  },
+  "correo": "hola@gmail.com",
+  "nombre": "xd",
+  "texto": "me gusta coco",
+  "likes": 2,
+  "likes_por": [
+    "hola@gmail.com",
+    "nao@gmail.com"
+  ],
+  "comentarios": [
+    {
+      "nombre": "xd",
+      "texto": "dios",
+      "fecha": "04/06/2026 02:58"
+    },
+    {
+      "nombre": "nao",
+      "texto": ":0",
+      "fecha": "04/06/2026 02:59"
+    }
+  ],
+  "fecha": {
+    "$date": "2026-06-04T02:58:48.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a21880202b16800dd1e6810"
+  },
+  "correo": "nao@gmail.com",
+  "nombre": "nao",
+  "texto": "holaaaa",
+  "likes": 0,
+  "likes_por": [],
+  "comentarios": [],
+  "fecha": {
+    "$date": "2026-06-04T14:13:22.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a21880202b16800dd1e6811"
+  },
+  "correo": "nao@gmail.com",
+  "nombre": "nao",
+  "texto": "holaaaa",
+  "likes": 1,
+  "likes_por": [
+    "nao@gmail.com"
+  ],
+  "comentarios": [
+    {
+      "nombre": "nao",
+      "texto": "xd",
+      "fecha": "04/06/2026 14:13"
+    }
+  ],
+  "fecha": {
+    "$date": "2026-06-04T14:13:22.960Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a218a9f02b16800dd1e6812"
+  },
+  "correo": "nao@gmail.com",
+  "nombre": "nao",
+  "texto": "esta bien chida",
+  "likes": 0,
+  "likes_por": [],
+  "comentarios": [],
+  "fecha": {
+    "$date": "2026-06-04T14:24:31.932Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a218b9c02b16800dd1e6813"
+  },
+  "correo": "nao@gmail.com",
+  "nombre": "nao",
+  "texto": "fer el mejor programador",
+  "likes": 1,
+  "likes_por": [
+    "nao@gmail.com"
+  ],
+  "comentarios": [],
+  "fecha": {
+    "$date": "2026-06-04T14:28:44.901Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a218e9702b16800dd1e6816"
+  },
+  "correo": "angelo@gmail.con",
+  "nombre": "Angelo",
+  "texto": "en buscar nv att Moy",
+  "likes": 2,
+  "likes_por": [
+    "angelo@gmail.con",
+    "moy@gmail.com"
+  ],
+  "comentarios": [
+    {
+      "nombre": "Moisés",
+      "texto": "te entiendo bb ❤️",
+      "fecha": "04/06/2026 14:43"
+    },
+    {
+      "nombre": "Moisés",
+      "texto": "el Fernando es jochis",
+      "fecha": "04/06/2026 14:44"
+    }
+  ],
+  "fecha": {
+    "$date": "2026-06-04T14:41:27.055Z"
+  }
+}]
